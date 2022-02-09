@@ -1,0 +1,33 @@
+<form id="application" action="/application1.php" method=post enctype="multipart/form-data" class="contact-form text-center">
+							
+
+							<div class="rezult hide"></div>
+							<input type="hidden" class="popup-shower" name="title" value="">
+
+						   	<div class="input-group phone">
+                <input  name="DATA[PHONE_WORK]"  type="tel" id="applicationTelephone" maxlength="20" placeholder="Введите Ваш телефон" required=""></div>
+
+                <div class="input-group email">
+                <input  name="DATA[EMAIL_WORK]"  type="email" id="applicationEmail" maxlength="30" placeholder="Введите Ваш E-mail*" required />
+                </div>
+
+							<!-- <div class="input-group question">
+								<textarea  name="DATA[COMMENTS]" placeholder="Ваш Вопрос" id="mess" rows="10" cols="45" name="text"></textarea>
+							</div> -->
+							<div class="input-group  opt-user">
+				                	<div class="radio-label">
+				                		<label for="opt-ipt-3" class="opt-lab"></label>
+					                	<input type="radio" name="DATA[Opt]" value="Опт" id="opt-ipt-3" class="userInn" required>
+				                	</div>
+				                		<span>Оптовый покупатель</span>
+									
+									<div class="radio-label">
+										<label for="roz-ipt-3" class="roz-lab"></label>
+						                <input type="radio" name="DATA[Opt]" value="Розница" id="roz-ipt-3" class="userInn" >	
+									</div>
+						                <span>Розничный покупатель</span>
+				                </div>
+
+                <input class="applicationButton btn btn-sbmt" onClick="yaCounter39490315.reachGoal('vopros'); ga(' voprosy', 'zadat'); return true;" type="submit" value="перейти в каталог" name="submit"/>
+							<p class="personal-data">* Ваши данные не будут переданы третьим лицам.</p>
+						</form>

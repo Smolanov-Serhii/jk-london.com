@@ -1,0 +1,801 @@
+AWSTATS DATA FILE 7.0 (build 1.971)
+# If you remove this file, all statistics for date 201610 will be lost/reset.
+# Last config file used to build this data file was /etc/awstats/awstats.jk-london.com.conf.
+
+# Position (offset in bytes) in this file for beginning of each section for
+# direct I/O access. If you made changes somewhere in this file, you should
+# also remove completely the MAP section (AWStats will rewrite it at next
+# update).
+BEGIN_MAP 27
+POS_GENERAL 1993                
+POS_TIME 2652                
+POS_VISITOR 18632               
+POS_DAY 27622               
+POS_DOMAIN 3610                
+POS_LOGIN 3846                
+POS_ROBOT 4001                
+POS_WORMS 4717                
+POS_EMAILSENDER 4848                
+POS_EMAILRECEIVER 4991                
+POS_SESSION 28561               
+POS_SIDER 28772               
+POS_FILETYPES 5126                
+POS_DOWNLOADS 5520                
+POS_OS 5609                
+POS_BROWSER 5803                
+POS_SCREENSIZE 7059                
+POS_UNKNOWNREFERER 7133                
+POS_UNKNOWNREFERERBROWSER 7506                
+POS_ORIGIN 7685                
+POS_SEREFERRALS 7831                
+POS_PAGEREFS 8001                
+POS_SEARCHWORDS 10745               
+POS_KEYWORDS 11038               
+POS_MISC 2315                
+POS_ERRORS 11200               
+POS_CLUSTER 3702                
+POS_SIDER_404 11331               
+END_MAP
+
+# LastLine    = Date of last record processed - Last record line number in last log - Last record offset in last log - Last record signature value
+# FirstTime   = Date of first visit for history file
+# LastTime    = Date of last visit for history file
+# LastUpdate  = Date of last update - Nb of parsed records - Nb of parsed old records - Nb of parsed new records - Nb of parsed corrupted - Nb of parsed dropped
+# TotalVisits = Number of visits
+# TotalUnique = Number of unique visitors
+# MonthHostsKnown   = Number of hosts known
+# MonthHostsUnKnown = Number of hosts unknown
+BEGIN_GENERAL 8
+LastLine 20161101001428 1 0 8624905659406
+FirstTime 0
+LastTime 20161031203309
+LastUpdate 20161101010227 1 0 0 0 0
+TotalVisits 296                 
+TotalUnique 193                 
+MonthHostsKnown 0                   
+MonthHostsUnknown 215                 
+END_GENERAL
+
+# Misc ID - Pages - Hits - Bandwidth
+BEGIN_MISC 10
+QuickTimeSupport 0 0 0
+JavaEnabled 0 0 0
+JavascriptDisabled 0 0 0
+PDFSupport 0 0 0
+WindowsMediaPlayerSupport 0 0 0
+AddToFavourites 0 14 0
+RealPlayerSupport 0 0 0
+TotalMisc 0 0 0
+DirectorSupport 0 0 0
+FlashSupport 0 0 0
+END_MISC
+
+# Hour - Pages - Hits - Bandwidth - Not viewed Pages - Not viewed Hits - Not viewed Bandwidth
+BEGIN_TIME 24
+0 25 274 36176800 34 65 2943256
+1 37 399 49337841 35 176 5052590
+2 12 31 1649973 29 83 3138325
+3 1 2 86536 38 117 5173123
+4 3 12 360729 32 88 3826958
+5 81 948 72795363 28 98 3674696
+6 24 275 1236573 30 73 3189553
+7 24 338 34533048 19 71 2486196
+8 53 670 59133488 32 92 6004584
+9 136 1714 177975247 32 100 3945713
+10 146 1910 196264147 28 101 4697860
+11 95 1269 114174460 37 138 8382019
+12 150 1883 203436360 36 110 8965948
+13 130 1453 172395684 47 188 4233923
+14 135 1680 163575920 29 113 5790784
+15 137 1758 195169040 40 124 13545779
+16 179 2208 216628967 58 168 6333613
+17 125 1376 137142329 33 121 10526645
+18 174 1891 191136416 52 241 9741502
+19 169 1842 226048428 54 213 15339737
+20 241 3222 359677518 37 118 3677945
+21 293 3998 399019967 49 162 22160127
+22 149 1835 217157774 27 125 3817317
+23 71 847 97555578 31 111 7597663
+END_TIME
+
+# Domain - Pages - Hits - Bandwidth
+# The 10 first Pages must be first (order not required for others)
+BEGIN_DOMAIN 1
+ip 2590 31835 3102441286
+END_DOMAIN
+
+# Cluster ID - Pages - Hits - Bandwidth
+BEGIN_CLUSTER 0
+END_CLUSTER
+
+# Login - Pages - Hits - Bandwidth - Last visit
+# The 10 first Pages must be first (order not required for others)
+BEGIN_LOGIN 0
+END_LOGIN
+
+# Robot ID - Hits - Bandwidth - Last visit - Hits on robots.txt
+# The 10 first Hits must be first (order not required for others)
+BEGIN_ROBOT 16
+yandex 987 55922294 20161031205739 0
+googlebot 400 20142292 20161029224645 0
+bot[\s_+:,\.\;\/\\-] 187 9252627 20161031141350 0
+facebook 43 859432 20161023103814 0
+no_user_agent 28 4067923 20161020235726 0
+favicon 26 1131491 20161030001836 0
+robot 18 756486 20161026095858 0
+baiduspider 7 601271 20161031133113 0
+python 4 84920 20161025090152 0
+mj12bot 4 339768 20161019185504 0
+spider 2 169884 20161026095852 0
+ia_archiver 1 84964 20161026124955 0
+surveybot 2 169884 20161018172848 0
+cfnetwork 1 1572 20161005091926 0
+netcraft 1 84920 20161015222119 0
+crawl 1 84920 20161017170243 0
+END_ROBOT
+
+# Worm ID - Hits - Bandwidth - Last visit
+# The 5 first Hits must be first (order not required for others)
+BEGIN_WORMS 0
+END_WORMS
+
+# EMail - Hits - Bandwidth - Last visit
+# The 20 first Hits must be first (order not required for others)
+BEGIN_EMAILSENDER 0
+END_EMAILSENDER
+
+# EMail - Hits - Bandwidth - Last visit
+# The 20 first hits must be first (order not required for others)
+BEGIN_EMAILRECEIVER 0
+END_EMAILRECEIVER
+
+# Files type - Hits - Bandwidth - Bandwidth without compression - Bandwidth after compression
+BEGIN_FILETYPES 16
+css 2282 10564225 0 0
+ttf 237 49765108 0 0
+woff2 206 3659684 0 0
+woff 23 482880 0 0
+php 30 337835 0 0
+html 407 34720762 0 0
+mp4 66 286177127 0 0
+jpg 16176 1575614439 0 0
+eot 6 120762 0 0
+png 8259 900882615 0 0
+otf 1662 206151300 0 0
+js 2222 30206015 0 0
+Unknown 18 528307 0 0
+webm 1 3124821 0 0
+svg 234 101760 0 0
+gif 6 3646 0 0
+END_FILETYPES
+
+# Downloads - Hits - Bandwidth
+BEGIN_DOWNLOADS 1
+/videos/_0134_3_wmv.mp4 44 199 286177127
+END_DOWNLOADS
+
+# OS ID - Hits
+BEGIN_OS 13
+linuxandroid 3401
+blackberry 1
+winlong 537
+winxp 896
+unix 1
+winnt 6113
+winvista 7934
+linux 405
+win7 9015
+macosx 3572
+winunknown 134
+win2003 11
+Unknown 14
+END_OS
+
+# Browser ID - Hits
+BEGIN_BROWSER 67
+firefox28.0 4
+safari7.0 197
+chrome50.0.2661.89 38
+chrome52.0.2743.116 2020
+chrome40.0.2214.115 4
+firefox3.6 1
+chrome29.0.1547.76 1
+chrome34.0.1847.137 1
+android 333
+chrome28.0.1500.94 2
+chrome28.0.1500.95 10
+firefox18.0 4
+chrome31.0.1650.57 125
+firefox34.0 2
+curl 2
+firefox49.0 3177
+opera9.80 834
+msie8.0 84
+iphone 263
+chrome35.0.1975.45 1
+chrome51.0.2704.81 271
+chrome50.0.2661.94 134
+chrome45.0.2454.93 1
+msie7.0 11
+chrome53.0.2785.124 1982
+chrome27.0.1453.90 2
+chrome34.0.1847.116 1
+chrome54.0.2840.68 133
+chrome27.0.1453 264
+chrome53.0.2785.116 1561
+safari8.0 445
+chrome39.0.2146.0 536
+msie9.0 1
+chrome49.0.2623.112 405
+chrome54.0.2840.59 731
+firefox27.0 2
+Unknown 11
+chrome12.0.742.93 1
+blackberry 1
+firefox48.0 4
+chrome14.0.835.186 1
+chrome53.0.2785.143 8016
+safari10.0 932
+samsung 2
+chrome53.0.2785.101 1049
+nsplayer 1
+firefox38.0 2
+chrome51.0.2704.79 535
+firefox7.0.1 1
+chrome49.0.2623.75 1
+firefox47.0 136
+chrome54.0.2840.71 5783
+safari9.0 726
+mozilla 278
+chrome45.0.2454.101 2
+netscape5.0 2
+chrome51.0.2704.106 140
+firefox14.0.1 1
+chrome46.0.2486.0 278
+firefox38.9 138
+chrome26.0.1410.63 1
+chrome48.0.2564.103 1
+chrome41.0.2228.0 2
+firefox19.0 1
+firefox36.0 2
+safari 269
+chrome50.0.2661.240 134
+END_BROWSER
+
+# Screen size - Hits
+BEGIN_SCREENSIZE 0
+END_SCREENSIZE
+
+# Unknown referer OS - Last visit date
+BEGIN_UNKNOWNREFERER 5
+NSPlayer/12.00.9651.0000_WMFSDK/12.00.9651.0000 20161017213615
+PycURL/7.43.0_libcurl/7.22.0_OpenSSL/1.0.1_zlib/1.2.3.4_libidn/1.23_librtmp/2.3 20161026020327
+KickFire 20161026145606
+Mozilla/5.0_(compatible;_vkShare;__http://vk.com/dev/Share) 20161012150102
+panscient.com 20161026163927
+END_UNKNOWNREFERER
+
+# Unknown referer Browser - Last visit date
+BEGIN_UNKNOWNREFERERBROWSER 3
+Microsoft_Office_Mobile/15.0 20161017213538
+KickFire 20161026145606
+panscient.com 20161026163927
+END_UNKNOWNREFERERBROWSER
+
+# Origin - Pages - Hits 
+BEGIN_ORIGIN 6
+From0 284 467
+From1 0 0
+From2 28 33
+From3 80 425
+From4 2198 31109
+From5 0 0
+END_ORIGIN
+
+# Search engine referers ID - Pages - Hits
+BEGIN_SEREFERRALS 2
+google 11 16
+yandex 17 17
+END_SEREFERRALS
+
+# External page referers - Pages - Hits
+# The 10 first Pages must be first (order not required for others)
+BEGIN_PAGEREFS 42
+http://vk.com/away.php 12 12
+http://yandex.ua/clck/jsredir 10 10
+https://yandex.ua/search/touch/ 10 10
+http://catalog.jk-london.com/admin/commerce/config/checkout/rules 8 16
+https://www.facebook.com 6 6
+http://m.vk.com/away.php 5 5
+http://www.yandex.ua/clck/jsredir 4 4
+http://moscow.cataloxy.ru/url/ 4 4
+http://catalog.jk-london.com/profiles/drupalife_store/themes/drupalife_store/css/fontello.css 2 2
+http://catalog.jk-london.com 2 199
+http://www.photokasakosa.ru/facebook.com/DmitryStefaniv 1 1
+http://www.catalog.jk-london.com/sites/all/modules/scroll_to_top/scroll_to_top.css 0 1
+http://catalog.jk-london.com/modules/system/system.admin.css 0 2
+http://catalog.jk-london.com/themes/seven/jquery.ui.theme.css 0 2
+http://www.catalog.jk-london.com/sites/default/files/color/drupalife_store-c679ba00/color.css 0 1
+http://duckduckgo.com 1 1
+http://l.facebook.com/lsr.php 1 1
+http://catalog.jk-london.com/sites/default/files/color/drupalife_store-c679ba00/color.css 0 2
+http://webmail.meta.ua/read_body.php 1 1
+http://catalog.jk-london.com/sites/all/modules/scroll_to_top/scroll_to_top.css 0 2
+http://catalog.jk-london.com/sites/all/modules/admin_menu/admin_menu_toolbar/admin_menu_toolbar.css 0 2
+http://catalog.jk-london.com/sites/all/modules/admin_menu/admin_menu.css 0 3
+http://catalog.jk-london.com/users/admin 1 9
+http://www.catalog.jk-london.com/user/login 0 61
+http://catalog.jk-london.com/modules/system/system.base.css 0 2
+http://catalog.jk-london.com/profiles/drupalife_store/libraries/nivo-slider/themes/default/default.css 0 6
+http://catalog.jk-london.com/admin/commerce/config/checkout/rules/manage/20 2 8
+http://unblocksites.co 1 1
+http://catalog.jk-london.com/admin/commerce/config/checkout/rules/manage/commerce_checkout_admin_order_email_html/edit/3 2 15
+http://yandex.by/clck/jsredir 1 1
+http://catalog.jk-london.com/modules/system/system.theme.css 0 2
+http://emilyus.livejournal.com/antonstepanenko.ru 1 1
+http://catalog.jk-london.com/sites/all/modules/admin_menu/admin_menu.uid1.css 0 2
+http://catalog.jk-london.com/profiles/drupalife_store/themes/drupalife_store/css/styles.css 0 14
+http://catalog.jk-london.com/modules/contextual/contextual.css 0 2
+http://catalog.jk-london.com/modules/system/system.messages.css 0 1
+http://www.catalog.jk-london.com/profiles/drupalife_store/themes/drupalife_store/css/styles.css 0 6
+http://lm.facebook.com/lsr.php 1 1
+http://m.facebook.com 2 2
+http://www.catalog.jk-london.com/profiles/drupalife_store/themes/drupalife_store/css/fontello.css 1 1
+http://catalog.jk-london.com/themes/seven/style.css 0 2
+http://catalog.jk-london.com/user 1 1
+END_PAGEREFS
+
+# Search keyphrases - Number of search
+# The 10 first number of search must be first (order not required for others)
+BEGIN_SEARCHWORDS 3
+%d0%be%d0%b1%d0%ba%d0%b8j.+london+exlusive 2
+j.london+%d0%be%d0%b4%d0%b5%d0%b6%d0%b4%d0%b0 1
+j+london+%d0%be%d0%b4%d0%b5%d0%b6%d0%b4%d0%b0 1
+END_SEARCHWORDS
+
+# Search keywords - Number of search
+# The 10 first number of search must be first (order not required for others)
+BEGIN_KEYWORDS 6
+london 3
+exlusive 2
+%d0%be%d0%b4%d0%b5%d0%b6%d0%b4%d0%b0 2
+%d0%be%d0%b1%d0%ba%d0%b8j. 2
+j 1
+j.london 1
+END_KEYWORDS
+
+# Errors - Hits - Bandwidth
+BEGIN_ERRORS 4
+403 57 197916
+302 2 0
+206 118 67048664
+404 1070 3047360
+END_ERRORS
+
+# URL with 404 errors - Hits - Last URL referer
+BEGIN_SIDER_404 124
+/ 6 http://test.jk-london.com
+/robots.txt 177 -
+/content/bluzka 1 https://www.google.ru/
+/wordpress/ 1 -
+/user 3 -
+/profiles/drupalife_store/libraries/superfish/supersubs.js 1 http://jk-london.com/dostavka-i-oplata
+/content/img/slides/Production/KOO_3719.jpg 1 -
+/admin.php 2 -
+/profiles/drupalife_store/modules/contrib/ckeditor/css/ckeditor.css 2 http://jk-london.com/o-nas
+/content/img/slides/Production/KOO_3695.jpg 1 -
+/contact 2 -
+/modules/comment/comment.css 2 http://jk-london.com/o-nas
+/css/bootstrap.css.map 20 -
+/content/img/slides/Production/KOO_3707.jpg 1 -
+/profiles/drupalife_store/modules/contrib/colorbox/styles/default/colorbox_style.js 1 http://jk-london.com/dostavka-i-oplata
+/profiles/drupalife_store/libraries/superfish/sfsmallscreen.js 2 http://jk-london.com/dostavka-i-oplata
+/css/fancybox_sprite@2x.png 2 http://www.jk-london.com/css/jquery.fancybox.css
+/news/62-novosti 1 -
+/news/9-novinka-shtany 2 -
+/js/fancybox/text/xml 1 -
+/modules/field/theme/field.css 1 http://jk-london.com/o-nas
+/profiles/drupalife_store/modules/contrib/views/css/views.css 2 http://jk-london.com/o-nas
+/xmlrpc.php 1 -
+/mypage.html 1 -
+/browserconfig.xml 1 -
+/content/img/slides/Production/KOO_3721.jpg 1 -
+/profiles/drupalife_store/libraries/superfish/jquery.hoverIntent.minified.js 1 http://jk-london.com/dostavka-i-oplata
+/jk-london.zip 1 -
+/profiles/drupalife_store/modules/contrib/colorbox/styles/default/colorbox_style.css 2 http://jk-london.com/o-nas
+/css/fancybox_loading.gif 1 http://www.jk-london.com/css/jquery.fancybox.css
+/1 1 -
+/content/img/slides/Production/KOO_3701.jpg 1 -
+/profiles/drupalife_store/libraries/superfish/style/coffee.css 1 http://jk-london.com/dostavka-i-oplata
+/user/register 1 -
+/profiles/drupalife_store/libraries/nivo-slider/nivo-slider.css 1 -
+/sites/all/modules/scroll_to_top/scroll_to_top.js 1 http://jk-london.com/kontakty
+/profiles/drupalife_store/modules/contrib/jquery_update/replace/jquery/1.7/jquery.min.js 1 http://jk-london.com/dostavka-i-oplata
+//wp-login.php 1 -
+/apple-touch-icon-120x120.png 1 -
+/nkphototravel.com 1 http://www.jk-london.com/www.topmebel-shop.ru
+/content/img/slides/Production/KOO_3795.jpg 1 -
+/sites/all/modules/popup/popup.css 1 http://jk-london.com/dostavka-i-oplata
+/).length,t.style=/top/.test(r.getAttribute( 1 -
+/panel 2 -
+/bitrix/admin 2 -
+/kachestvo-i-garantiya 2 -
+/administrator 2 -
+/apple-touch-icon-120x120-precomposed.png 1 -
+/js/script.js 616 http://jk-london.com/
+/profiles/drupalife_store/libraries/colorbox/jquery.colorbox-min.js 1 http://jk-london.com/o-nas
+/content/img/slides/Production/KOO_3702.jpg 1 -
+/a 2 -
+/sites/default/files/languages/ru_xbmUuR41T-JufBe-auMCEDIZEvWBqvSS8kFikNQA4_s.js 1 http://jk-london.com/dostavka-i-oplata
+/content/img/slides/Production/KOO_3697.jpg 1 -
+/content/img/slides/Production/KOO_3703.jpg 1 -
+/content/img/slides/Production/KOO_3706.jpg 1 -
+/manager 2 -
+/wp-login.php 6 -
+/gtm.js 1 -
+/profiles/drupalife_store/themes/drupalife_store/js/script.js 2 http://jk-london.com/dostavka-i-oplata
+/sites/all/modules/geofield_ymap/js/geofield_ymap_loader.js 1 http://jk-london.com/dostavka-i-oplata
+/misc/drupal.js 1 http://jk-london.com/dostavka-i-oplata
+/content/plate-jlondon-no6207 1 -
+/css/fonts/slick.svg 8 http://www.jk-london.com/
+/sites/default/files/fontyourface/font.css 1 http://jk-london.com/dostavka-i-oplata
+/profiles/drupalife_store/libraries/superfish/css/superfish.css 2 http://jk-london.com/o-nas
+/akcii 1 android-app://com.google.android.googlequicksearchbox
+/modules/user/user.css 1 http://jk-london.com/dostavka-i-oplata
+/css/nav-icon.png 48 http://jk-london.com/css/menu.css
+/apple-touch-icon.png 4 -
+/profiles/drupalife_store/modules/contrib/ds/layouts/ds_2col/ds_2col.css 1 http://jk-london.com/o-nas
+/misc/jquery.once.js 1 http://jk-london.com/dostavka-i-oplata
+/modules/system/system.base.css 2 http://jk-london.com/o-nas
+/profiles/drupalife_store/libraries/nivo-slider/themes/default/default.css 1 -
+/content/img/slides/Production/KOO_3704.jpg 1 -
+/g,mt=RegExp( 1 -
+/content/img/slides/Production/KOO_3694.jpg 1 -
+/user/password 1 -
+/sites/all/modules/geofield_ymap/geofield_ymap.css 2 http://jk-london.com/dostavka-i-oplata
+/sites/all/modules/webform/js/webform.js 1 http://jk-london.com/dostavka-i-oplata
+/profiles/drupalife_store/libraries/superfish/supposition.js 2 http://jk-london.com/o-nas
+/blog/ 3 -
+/news 1 -
+/wp/ 1 -
+/admin/content/sitetree 2 -
+/text/xml 1 -
+/css/fonts/slick.eot 5 http://jk-london.com/
+/sites/default/files/color/drupalife_store-c679ba00/color.css 1 http://jk-london.com/dostavka-i-oplata
+/sites/all/modules/admin_menu/admin_devel/admin_devel.js 2 http://jk-london.com/o-nas
+/profiles/drupalife_store/themes/drupalife_store/css/styles.css 2 http://jk-london.com/dostavka-i-oplata
+/content/img/slides/Production/KOO_3699.jpg 1 -
+/css/fancybox_loading@2x.gif 1 http://www.jk-london.com/css/jquery.fancybox.css
+/content/img/slides/Production/KOO_3705.jpg 1 -
+/modules/node/node.css 2 http://jk-london.com/o-nas
+/apple-touch-icon-precomposed.png 2 -
+/content/img/slides/Production/KOO_3700.jpg 1 -
+/news/8-stilnaya-i-legkaya-bluzka 1 -
+/blog/robots.txt 1 -
+/profiles/drupalife_store/libraries/superfish/superfish.js 2 http://jk-london.com/dostavka-i-oplata
+/sites/all/modules/popup/popup.js 1 http://jk-london.com/dostavka-i-oplata
+/content/kontakty-0 2 -
+/content/img/slides/Production/KOO_3713.jpg 1 -
+/profiles/drupalife_store/modules/contrib/colorbox/js/colorbox.js 1 http://jk-london.com/dostavka-i-oplata
+/sites/all/modules/scroll_to_top/scroll_to_top.css 2 http://jk-london.com/dostavka-i-oplata
+/profiles/drupalife_store/modules/contrib/colorbox/js/colorbox_load.js 1 http://jk-london.com/o-nas
+/sites/all/modules/webform/css/webform.css 1 http://jk-london.com/dostavka-i-oplata
+/profiles/drupalife_store/modules/contrib/superfish/superfish.js 1 http://jk-london.com/dostavka-i-oplata
+/profiles/drupalife_store/libraries/superfish/style/blue.css 2 http://jk-london.com/dostavka-i-oplata
+/sites/all/modules/jcarousel/js/jcarousel.js 2 http://jk-london.com/dostavka-i-oplata
+/js/fancybox/).length,t.style=/top/.test(r.getAttribute( 1 -
+/sites/all/modules/jcarousel/js/jquery.jcarousel.min.js 1 http://jk-london.com/o-nas
+/sites/all/modules/jcarousel/skins/default/jcarousel-default.css 1 http://jk-london.com/o-nas
+/img/goods/skirts/skirt-2047.JPG 1 http://jk-london.com/
+/profiles/drupalife_store/modules/contrib/mappy/js/mappy.js 2 http://jk-london.com/dostavka-i-oplata
+/img/goods/pants/pant- 2 http://jk-london.com/
+/css/fonts/slick.woff 14 http://www.jk-london.com/
+/content/img/slides/Production/KOO_3717.jpg 1 -
+/content/img/slides/Production/KOO_3698.jpg 1 -
+/modules/search/search.css 1 http://jk-london.com/o-nas
+/content/img/slides/Production/KOO_3729.jpg 1 -
+/profiles/drupalife_store/modules/contrib/ctools/css/ctools.css 1 http://jk-london.com/o-nas
+/www.topmebel-shop.ru 1 http://www.jk-london.com/
+/ahah/popup/block/4ec1264b61cafd86792a284995c71be2 5 -
+/css/fonts/slick.ttf 13 http://www.jk-london.com/
+END_SIDER_404
+
+# Host - Pages - Hits - Bandwidth - Last visit date - [Start date of last visit] - [Last page of last visit]
+# [Start date of last visit] and [Last page of last visit] are saved only if session is not finished
+# The 10 first Hits must be first (order not required for others)
+BEGIN_VISITOR 215
+109.104.178.20 376 4932 487469043 20161031202609
+95.132.247.109 210 2965 289050945 20161031203309
+141.101.234.201 89 1077 51923179 20161012080425
+5.79.69.225 51 674 75236457 20161028174021
+141.101.4.188 50 560 16344162 20161031193915
+77.120.40.31 50 649 70437970 20161024225558
+46.133.239.92 47 304 37423381 20161017181520
+178.137.155.42 43 541 57402753 20161027085621
+91.205.162.167 42 526 29116445 20161025160641
+178.74.230.69 40 521 58241850 20161025210502
+45.32.128.51 1 1 84920 20161004045403
+217.77.215.236 10 130 14639333 20161016002037
+176.195.126.104 1 1 84964 20161026020327
+194.146.110.36 12 138 11923708 20161013144734
+46.174.64.143 10 145 12417457 20161013172402
+83.170.197.42 20 259 25116420 20161020112153
+217.77.215.16 20 266 28557287 20161020013429
+83.69.217.195 10 134 15029817 20161012125017
+37.115.33.168 1 1 84920 20161017111425
+46.61.52.13 12 133 18032415 20161015193859
+69.58.178.58 2 2 169840 20161016120218
+217.69.133.169 2 4 173028 20161021032835
+93.77.205.134 38 416 51376797 20161015002451
+79.172.91.55 10 134 15029817 20161010105357
+46.133.59.103 1 46 9051957 20161018211110
+109.86.116.100 10 133 13068293 20161021123941
+66.102.9.24 26 247 21575342 20161025143159
+109.124.222.183 10 134 15029817 20161014122121
+178.120.194.43 10 71 4115455 20161021130518
+178.155.5.164 10 134 13528998 20161011111850
+37.55.10.203 10 133 322324 20161016145018
+93.73.90.30 10 138 16268100 20161026225120
+94.153.234.194 10 134 15031916 20161002191950
+93.175.202.45 10 138 11700529 20161014122642
+95.129.169.183 10 134 15031960 20161022114947
+38.100.21.66 2 11 3587985 20161017050040
+213.160.156.214 22 270 30155947 20161028134633
+146.185.170.198 10 131 13274304 20161004054907
+91.193.172.129 1 1 84964 20161023124152
+31.162.198.85 7 129 14010217 20161025135718
+104.237.243.35 1 1 84920 20161013163038
+131.253.27.108 0 5 199598 
+166.70.207.2 1 1 84964 20161018173805
+131.253.25.171 0 8 848760 
+46.201.0.97 11 133 13078465 20161013184106
+176.192.43.190 10 134 15029817 20161013155223
+131.253.27.172 0 4 296430 
+217.77.215.11 10 134 15029817 20161014223850
+91.221.211.202 10 133 13068293 20161020221709
+77.51.246.183 1 1 84964 20161025084313
+104.207.150.177 1 1 84920 20161015010813
+123.125.67.228 1 1 91619 20161031125947
+217.77.215.93 32 401 41027553 20161027214758
+91.76.166.173 10 136 16513706 20161023203256
+213.227.203.114 23 271 30240735 20161013154136
+178.32.139.10 1 1 84920 20161010014532
+37.73.159.88 1 2 150457 20161005165029
+23.92.212.2 2 2 169928 20161028062319
+37.73.207.4 10 130 14579194 20161012151315
+46.39.46.108 10 134 15029817 20161005142648
+89.19.118.162 13 137 15210918 20161017231820
+217.77.212.247 18 168 34709882 20161016151724
+178.93.169.90 11 140 12778623 20161023155046
+40.78.146.128 1 2 86492 20161004112702
+193.53.83.27 10 134 15033643 20161014015205
+66.220.145.244 2 26 5142866 20161010161206
+131.253.27.178 0 8 516382 
+37.73.251.126 24 266 13702621 20161004105947
+37.55.5.113 0 1 1500819 
+93.80.145.234 10 25 1430553 20161008132709
+217.77.212.184 10 134 15029817 20161013172521
+109.61.241.110 10 134 15029817 20161013221444
+5.101.201.202 10 144 16478861 20161031134511
+46.133.171.230 13 132 13329309 20161013113705
+178.129.25.52 22 264 32133808 20161011210415
+95.73.38.158 21 269 30070895 20161013222546
+62.105.41.66 10 133 13068249 20161013143629
+176.31.149.121 1 1 84964 20161024001504
+217.118.78.125 10 132 14187773 20161003192259
+37.212.128.171 1 1 84920 20161017130456
+78.111.186.127 1 7 176572 20161024211156
+176.15.18.134 1 10 190889 20161012044307
+189.89.125.52 3 3 254760 20161006015917
+37.73.215.135 1 38 2316663 20161012162215
+89.19.119.223 3 3 181101 20161018140656
+92.252.228.234 12 136 15125998 20161014131857
+109.227.94.112 1 1 84920 20161014133407
+176.105.202.59 10 134 15029861 20161019164420
+131.253.27.101 0 5 175722 
+131.253.27.9 0 8 670898 
+52.29.26.11 1 1 84920 20161005145424
+46.211.253.64 0 3 145803 
+213.130.11.12 10 130 11285887 20161010164129
+77.121.89.7 10 134 15029817 20161013201720
+46.39.66.241 10 90 7308088 20161013144657
+176.193.103.79 1 1 84964 20161025001452
+66.102.9.5 13 89 8668674 20161015221856
+188.191.22.38 10 134 15033643 20161013232611
+37.73.243.48 5 20 4374758 20161012162225
+89.185.17.147 23 411 23762173 20161015211932
+66.102.9.26 16 203 21417046 20161025143159
+217.77.212.5 30 401 43127927 20161021190634
+83.234.146.184 10 134 15035213 20161017181222
+186.202.121.145 2 2 169840 20161003181231
+111.26.139.130 2 2 169928 20161019014655
+46.30.167.250 20 267 30058150 20161027133702
+37.204.169.65 20 267 15345717 20161003170547
+95.28.50.168 10 29 1480045 20161014193609
+66.220.145.245 8 89 7883831 20161010161206
+131.253.25.131 0 11 1088380 
+93.72.163.235 8 38 1806988 20161028195423
+131.253.27.167 0 1 282171 
+37.72.43.161 10 135 16512234 20161014205935
+188.165.28.233 1 1 84964 20161027102629
+195.133.3.147 21 272 30146962 20161016094830
+66.102.9.8 8 114 12716285 20161015221856
+46.164.246.148 10 130 11285887 20161013182841
+199.30.24.187 9 127 13015433 20161006085218
+45.35.63.194 1 1 84920 20161007212538
+46.133.247.46 10 128 13073021 20161025212441
+94.244.54.38 12 135 13238089 20161014123043
+52.174.98.202 1 1 84964 20161028020011
+176.102.60.25 20 262 19340513 20161017204716
+195.184.213.178 10 134 11568837 20161019085149
+141.101.234.250 31 286 14540692 20161028172203
+109.87.198.93 10 134 15029817 20161013162835
+195.211.23.206 1 1 84920 20161012150102
+80.245.117.59 0 3 74926 
+95.135.183.11 2 4 172762 20161028220858
+212.109.30.195 10 143 14517293 20161031141139
+82.112.185.172 2 2 169840 20161005091926
+81.211.5.30 22 268 14011594 20161018125319
+185.7.215.163 1 1 61718 20161020235719
+193.90.12.86 1 1 84964 20161028111615
+104.156.231.254 1 1 84964 20161022164256
+72.76.221.220 2 7 281194 20161026163906
+91.198.143.117 22 265 29369869 20161006212412
+66.102.9.11 6 100 11771629 20161015221856
+188.165.18.232 1 1 84920 20161013112856
+131.253.27.56 0 9 448734 
+46.133.236.236 11 61 3931083 20161017213631
+188.17.244.157 5 22 1074017 20161016103602
+131.253.25.215 0 2 132448 
+37.139.13.205 1 1 84920 20161004054906
+104.237.242.61 1 1 84920 20161013163030
+46.138.179.81 10 134 15029817 20161010211350
+85.26.186.12 0 2 97546 
+212.26.236.1 10 133 13068293 20161022074026
+92.112.159.210 1 1 84964 20161027132340
+94.143.47.174 1 1 84964 20161021223522
+141.101.31.4 30 402 45089495 20161028223824
+91.45.238.139 0 1 18017 
+66.102.9.22 16 208 24293642 20161025143159
+185.129.148.216 2 2 169840 20161009001716
+93.78.195.109 10 134 15029817 20161016194409
+95.153.128.39 14 235 21798237 20161026144719
+92.240.209.39 0 4 188996 
+109.207.197.5 10 134 15029861 20161022235030
+176.105.49.95 10 135 15095398 20161024223131
+77.37.222.199 1 123 12329506 20161005214413
+93.170.135.244 10 133 13068249 20161007130623
+37.110.97.243 10 29 1480045 20161012025536
+77.233.192.176 10 136 13127636 20161010204520
+192.99.150.100 1 1 84920 20161008100437
+46.33.242.207 10 133 14502677 20161010163127
+91.210.146.90 1 1 91619 20161031134357
+83.220.237.133 10 131 15934481 20161023132051
+46.33.235.119 10 133 14349025 20161017231035
+37.139.25.186 1 1 84920 20161004054906
+93.80.99.60 10 131 15854261 20161023103822
+81.222.248.38 11 137 12683051 20161006113722
+45.32.130.173 1 1 84920 20161009053438
+91.122.105.175 0 1 17449 
+46.216.174.56 11 132 16068398 20161010181810
+79.140.23.35 2 2 169840 20161016161129
+134.249.159.113 1 1 84964 20161020160408
+178.92.220.236 10 132 13527426 20161005214238
+193.142.159.208 12 136 15126086 20161021114453
+46.188.32.184 2 2 169928 20161024142723
+130.180.208.39 1 22 765835 20161024203201
+131.253.27.200 0 6 860229 
+212.55.70.219 1 1 84920 20161014231207
+131.253.27.85 0 2 325138 
+95.135.49.107 10 134 15029861 20161027093838
+178.173.4.137 10 134 15029861 20161028215245
+113.210.120.16 2 71 261822 20161022071720
+37.25.111.87 10 131 14640905 20161006201835
+178.158.210.135 14 138 15296014 20161021205117
+176.32.15.141 10 134 15029817 20161013162918
+66.220.145.243 0 19 2003120 
+131.253.27.58 0 1 161348 
+5.45.255.112 10 112 12495340 20161015193729
+91.210.147.37 1 1 84920 20161012135450
+176.119.123.252 1 1 84964 20161021153206
+158.181.145.11 10 135 16431624 20161022182620
+213.87.144.161 1 7 937387 20161015085647
+80.252.244.202 10 133 13068293 20161023210622
+185.124.154.225 10 134 15029817 20161013161835
+213.227.252.83 10 134 15029861 20161026134625
+212.241.16.109 1 1 84964 20161022183238
+213.87.139.134 10 128 14177350 20161015011038
+213.87.157.42 10 134 1715783 20161025105235
+46.149.184.28 21 269 29641061 20161021181823
+81.214.106.101 12 332 15701675 20161023112130
+176.32.12.144 10 135 7475173 20161027234021
+194.213.39.50 1 1 84920 20161018092240
+91.218.89.167 10 134 15029861 20161028105348
+95.85.44.204 10 127 13396044 20161004054917
+46.133.52.176 10 91 7816124 20161018164959
+146.185.134.40 0 3 944739 
+176.117.67.178 1 1 84920 20161016200656
+75.149.221.170 1 1 84920 20161008090701
+209.128.119.32 1 1 84964 20161026145606
+136.243.95.154 1 1 84964 20161019205342
+193.192.171.10 20 267 27768675 20161007151723
+END_VISITOR
+
+# Date - Pages - Hits - Bandwidth - Visits
+BEGIN_DAY 31
+20161001 11 136 12000671 1
+20161002 52 756 57571379 6
+20161003 62 797 60919045 6
+20161004 189 2245 156328715 17
+20161005 54 673 75207419 11
+20161006 139 1713 186073263 10
+20161007 32 400 47800180 5
+20161008 13 29 1686885 4
+20161009 12 134 14738908 3
+20161010 132 1723 187609884 13
+20161011 42 525 68158774 3
+20161012 118 1405 171100031 14
+20161013 278 3416 379759840 27
+20161014 136 1555 191895725 18
+20161015 89 1186 119398344 14
+20161016 50 559 53466384 9
+20161017 125 1161 123135752 10
+20161018 68 797 91158804 10
+20161019 64 797 82041205 11
+20161020 44 526 57958410 7
+20161021 90 1011 115198264 11
+20161022 62 741 80099872 10
+20161023 64 992 103060428 7
+20161024 35 430 34702522 8
+20161025 58 788 75341642 11
+20161026 49 646 74396399 7
+20161027 56 787 76637892 11
+20161028 109 1115 135091507 17
+20161029 94 1270 118344960 2
+20161030 0 16 772208 0
+20161031 263 3506 371012874 13
+END_DAY
+
+# Session range - Number of visits
+BEGIN_SESSION 7
+1h+ 1
+5mn-15mn 10
+15mn-30mn 9
+30s-2mn 15
+2mn-5mn 12
+0s-30s 239
+30mn-1h 10
+END_SESSION
+
+# URL - Pages - Bandwidth - Entry - Exit
+# The 10 first Pages must be first (order not required for others)
+BEGIN_SIDER 28
+/ 407 34720762 275 115
+/fonts/SFUIDisplay/SFUIDisplay-Light.otf 240 29518640 5 2
+/fonts/SFUIDisplay/SFUIDisplay-Medium.otf 239 30156024 1 7
+/fonts/SFUIDisplay/SFUIDisplay-Bold.otf 238 30349092 1 1
+/fonts/SFUIDisplay/SFUIDisplay-Regular.otf 238 27311712 3 2
+/fonts/SFUIDisplay/SFUIDisplay-Heavy.otf 238 30823656 2 6
+/fonts/SFUIDisplay/SFUIDisplay-Semibold.otf 235 29650320 2 14
+/fonts/philosopher/Philosopher-Bold.ttf 235 49674300 2 5
+/fonts/SFUIDisplay/SFUIDisplay-Thin.otf 234 28341856 1 79
+/fonts/glyphicons-halflings-regular.woff2 206 3659684 0 54
+/admin/commerce/config/checkout/rules/manage/5 1 27756 0 0
+/admin/commerce/config/checkout/rules/manage/20/export 1 14901 0 0
+/js/admin_menu/cache/d71b072cd2cc467d11ccc046521ce991 1 10433 0 0
+/user 1 28642 0 0
+/admin/commerce/config/checkout/rules/manage/19 2 53456 0 0
+/admin/commerce/config/checkout/rules/manage/commerce_checkout_admin_order_email_html/edit/3 1 55650 0 0
+/profiles/drupalife_store/themes/drupalife_store/font/fontello.woff 3 14400 0 1
+/user/login 1 28919 1 0
+/application1.php 30 337835 2 7
+/admin/commerce/config/checkout/rules 2 51281 0 0
+/users/admin 1 143187 0 0
+/admin/commerce/config/checkout/rules/manage/20 3 79551 0 1
+/js/admin_menu/cache/9c4d129f95ba2ff1f0bac2632120361a 3 31299 0 1
+/fonts/glyphicons-halflings-regular.woff 20 468480 1 0
+/admin/commerce/config/checkout/rules/manage/commerce_checkout_admin_order_email_html/autocomplete/to/form-vKw-X3vRNF0EQZ_gF89WG28vARUr7vjgbYlFkJIokoY/site: 1 3232 0 0
+/fonts/glyphicons-halflings-regular.ttf 2 90808 0 0
+/fonts/glyphicons-halflings-regular.eot 6 120762 0 0
+/videos/_0134_3_wmv.webm 1 3124821 0 1
+END_SIDER

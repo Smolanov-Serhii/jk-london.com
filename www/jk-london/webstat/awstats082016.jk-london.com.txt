@@ -1,0 +1,714 @@
+AWSTATS DATA FILE 7.0 (build 1.971)
+# If you remove this file, all statistics for date 201608 will be lost/reset.
+# Last config file used to build this data file was /etc/awstats/awstats.jk-london.com.conf.
+
+# Position (offset in bytes) in this file for beginning of each section for
+# direct I/O access. If you made changes somewhere in this file, you should
+# also remove completely the MAP section (AWStats will rewrite it at next
+# update).
+BEGIN_MAP 27
+POS_GENERAL 1993                
+POS_TIME 2665                
+POS_VISITOR 26286               
+POS_DAY 27944               
+POS_DOMAIN 3507                
+POS_LOGIN 3743                
+POS_ROBOT 3898                
+POS_WORMS 4301                
+POS_EMAILSENDER 4432                
+POS_EMAILRECEIVER 4575                
+POS_SESSION 28152               
+POS_SIDER 28358               
+POS_FILETYPES 4710                
+POS_DOWNLOADS 5135                
+POS_OS 5812                
+POS_BROWSER 5954                
+POS_SCREENSIZE 6438                
+POS_UNKNOWNREFERER 6512                
+POS_UNKNOWNREFERERBROWSER 6697                
+POS_ORIGIN 6814                
+POS_SEREFERRALS 6959                
+POS_PAGEREFS 7103                
+POS_SEARCHWORDS 12418               
+POS_KEYWORDS 12570               
+POS_MISC 2328                
+POS_ERRORS 12629               
+POS_CLUSTER 3599                
+POS_SIDER_404 12785               
+END_MAP
+
+# LastLine    = Date of last record processed - Last record line number in last log - Last record offset in last log - Last record signature value
+# FirstTime   = Date of first visit for history file
+# LastTime    = Date of last visit for history file
+# LastUpdate  = Date of last update - Nb of parsed records - Nb of parsed old records - Nb of parsed new records - Nb of parsed corrupted - Nb of parsed dropped
+# TotalVisits = Number of visits
+# TotalUnique = Number of unique visitors
+# MonthHostsKnown   = Number of hosts known
+# MonthHostsUnKnown = Number of hosts unknown
+BEGIN_GENERAL 8
+LastLine 20160901043255 1 0 9505699013140
+FirstTime 20160827010657
+LastTime 20160831230029
+LastUpdate 20160901050219 1 0 0 0 0
+TotalVisits 75                  
+TotalUnique 36                  
+MonthHostsKnown 0                   
+MonthHostsUnknown 36                  
+END_GENERAL
+
+# Misc ID - Pages - Hits - Bandwidth
+BEGIN_MISC 10
+QuickTimeSupport 0 0 0
+JavaEnabled 0 0 0
+JavascriptDisabled 0 0 0
+PDFSupport 0 0 0
+WindowsMediaPlayerSupport 0 0 0
+AddToFavourites 0 96 0
+RealPlayerSupport 0 0 0
+TotalMisc 0 0 0
+DirectorSupport 0 0 0
+FlashSupport 0 0 0
+END_MISC
+
+# Hour - Pages - Hits - Bandwidth - Not viewed Pages - Not viewed Hits - Not viewed Bandwidth
+BEGIN_TIME 24
+0 0 0 0 0 2 269772
+1 8 8 490968 0 2 161348
+2 3 26 524803 2 3 188111
+3 0 0 0 1 1 61371
+4 11 40 1532988 7 14 831157
+5 0 9 104700 1 6 971146
+6 52 110 7158491 2 14 1719692
+7 16 549 20665537 2 5 72763
+8 22 366 16852125 1 12 188450
+9 62 1149 58098683 5 26 1230998
+10 87 1724 97286335 12 32 807418
+11 89 1781 90925197 17 115 1283016
+12 137 3933 159004122 36 1069 9090441
+13 140 2933 106934403 44 181 489527
+14 225 2934 151368358 40 172 2275367
+15 127 3506 84618735 22 65 1659754
+16 179 3221 135243343 25 88 465126
+17 31 582 3247879 3 11 110630
+18 24 455 13611995 6 22 65021
+19 17 201 8094258 0 5 14240
+20 7 303 1399865 2 5 71914
+21 76 1612 43128772 14 53 4431455
+22 71 1760 86212727 16 54 4590852
+23 39 411 46623314 0 0 0
+END_TIME
+
+# Domain - Pages - Hits - Bandwidth
+# The 10 first Pages must be first (order not required for others)
+BEGIN_DOMAIN 1
+ip 1423 27613 1098328442
+END_DOMAIN
+
+# Cluster ID - Pages - Hits - Bandwidth
+BEGIN_CLUSTER 0
+END_CLUSTER
+
+# Login - Pages - Hits - Bandwidth - Last visit
+# The 10 first Pages must be first (order not required for others)
+BEGIN_LOGIN 0
+END_LOGIN
+
+# Robot ID - Hits - Bandwidth - Last visit - Hits on robots.txt
+# The 10 first Hits must be first (order not required for others)
+BEGIN_ROBOT 7
+googlebot 96 7282128 20160831112410 3
+java\/[0-9] 8 1065194 20160829060555 0
+unknown 4 253480 20160829060518 4
+bot[\s_+:,\.\;\/\\-] 4 245484 20160827162336 2
+no_user_agent 3 191390 20160831154147 0
+baiduspider 3 190110 20160829112027 1
+surveybot 1 63370 20160830125851 0
+END_ROBOT
+
+# Worm ID - Hits - Bandwidth - Last visit
+# The 5 first Hits must be first (order not required for others)
+BEGIN_WORMS 0
+END_WORMS
+
+# EMail - Hits - Bandwidth - Last visit
+# The 20 first Hits must be first (order not required for others)
+BEGIN_EMAILSENDER 0
+END_EMAILSENDER
+
+# EMail - Hits - Bandwidth - Last visit
+# The 20 first hits must be first (order not required for others)
+BEGIN_EMAILRECEIVER 0
+END_EMAILRECEIVER
+
+# Files type - Hits - Bandwidth - Bandwidth without compression - Bandwidth after compression
+BEGIN_FILETYPES 18
+css 4988 25951564 0 0
+ttf 86 16388876 0 0
+woff 90 698132 0 0
+woff2 60 1081680 0 0
+map 3 190110 0 0
+php 28 378214 0 0
+mp4 42 39068945 0 0
+html 300 20357514 0 0
+jpg 10919 594957888 0 0
+log 1 26 0 0
+eot 2 83497 0 0
+png 5433 286507095 0 0
+otf 543 53816064 0 0
+js 4628 38088262 0 0
+jpeg 51 336812 0 0
+Unknown 287 14922720 0 0
+webm 24 1521174 0 0
+gif 128 154794 0 0
+END_FILETYPES
+
+# Downloads - Hits - Bandwidth
+BEGIN_DOWNLOADS 14
+/catalog/videos/_0134_3_wmv.mp4 12 0 760692
+/robots.txt 10 0 629702
+/catalog/catalog/videos/_0134_3_wmv.mp4 9 0 570414
+/videos/_0134_3_wmv.mp4 4 29 40802432
+/catalog/content/videos/_0134_3_wmv.mp4 2 0 126740
+/catalog/js/videos/_0134_3_wmv.mp4 2 0 126740
+/catalog/admin/commerce/config/videos/_0134_3_wmv.mp4 2 0 126740
+/catalog/catalog/js/videos/_0134_3_wmv.mp4 1 0 63370
+/user/1/videos/_0134_3_wmv.mp4 1 0 63370
+/strace.log 1 0 26
+/catalog/admin/videos/_0134_3_wmv.mp4 1 0 63370
+/content/videos/_0134_3_wmv.mp4 1 0 63370
+/catalog/checkout/49/videos/_0134_3_wmv.mp4 1 0 63370
+/jk-london/catalog/videos/_0134_3_wmv.mp4 1 0 63412
+END_DOWNLOADS
+
+# OS ID - Hits
+BEGIN_OS 8
+macosx 392
+linuxandroid 1618
+winnt 3939
+linuxubuntu 1988
+Unknown 8
+winvista 14147
+linux 3247
+win7 2303
+END_OS
+
+# Browser ID - Hits
+BEGIN_BROWSER 24
+safari7.0 65
+chrome52.0.2743.116 20094
+chrome45.0.2454.85 133
+firefox48.0 937
+firefox40.0 444
+chrome49.0.2623.87 572
+android 318
+chrome49.0.2623.105 134
+chrome48.0.2564.82 1863
+nsplayer 3
+chrome31.0.1650.57 2
+firefox34.0 659
+chrome51.0.2704.79 125
+opera9.80 3
+chrome46.0.2490.76 380
+chrome52.0.2743.82 131
+chrome19.0.1063.0 1
+safari9.0 40
+mozilla 3
+chrome51.0.2704.106 237
+chrome42.0.0.0 557
+chrome27.0.1453 777
+Unknown 5
+safari 159
+END_BROWSER
+
+# Screen size - Hits
+BEGIN_SCREENSIZE 0
+END_SCREENSIZE
+
+# Unknown referer OS - Last visit date
+BEGIN_UNKNOWNREFERER 2
+NSPlayer/12.00.9651.0000_WMFSDK/12.00.9651.0000 20160828151528
+Googlebot-Image/1.0 20160831100849
+END_UNKNOWNREFERER
+
+# Unknown referer Browser - Last visit date
+BEGIN_UNKNOWNREFERERBROWSER 1
+Googlebot-Image/1.0 20160831100849
+END_UNKNOWNREFERERBROWSER
+
+# Origin - Pages - Hits 
+BEGIN_ORIGIN 6
+From0 211 224
+From1 0 0
+From2 0 0
+From3 230 6911
+From4 982 20507
+From5 0 0
+END_ORIGIN
+
+# Search engine referers ID - Pages - Hits
+BEGIN_SEREFERRALS 0
+END_SEREFERRALS
+
+# External page referers - Pages - Hits
+# The 10 first Pages must be first (order not required for others)
+BEGIN_PAGEREFS 78
+http://catalog.jk-london.com 41 4265
+http://catalog.jk-london.com/profiles/drupalife_store/themes/drupalife_store/css/fontello.css 35 35
+http://catalog.jk-london.com/admin/commerce/products 18 27
+http://vk.com/away.php 16 16
+http://catalog.jk-london.com/admin/structure/block 13 88
+http://catalog.jk-london.com/catalog/bryuki 8 35
+http://catalog.jk-london.com/user 8 397
+http://catalog.jk-london.com/users/admin 7 215
+http://catalog.jk-london.com/cart 6 110
+http://catalog.jk-london.com/catalog/yubki 6 236
+http://catalog.jk-london.com/content/plate-jlondon-no6160 0 5
+http://catalog.jk-london.com/admin/commerce/config/sberbank 1 1
+http://test-pro.lead-group.pro 3 3
+http://catalog.jk-london.com/profiles/drupalife_store/modules/contrib/commerce/modules/checkout/theme/commerce_checkout.base.css 0 1
+http://catalog.jk-london.com/content/bryuki-10458 1 94
+http://catalog.jk-london.com/checkout/53 4 10
+http://catalog.jk-london.com/profiles/drupalife_store/libraries/ckeditor/skins/moono/dialog.css 0 4
+http://catalog.jk-london.com/modules/filter/filter.css 0 1
+http://catalog.jk-london.com/modules/system/system.admin.css 0 4
+http://catalog.jk-london.com/themes/seven/jquery.ui.theme.css 0 1
+http://catalog.jk-london.com/sites/default/files/color/drupalife_store-c679ba00/color.css 0 42
+http://catalog.jk-london.com/admin/commerce/products/72/delete 1 4
+http://catalog.jk-london.com/admin/commerce/products/79/delete 1 6
+http://catalog.jk-london.com/sites/all/modules/scroll_to_top/scroll_to_top.css 0 46
+http://catalog.jk-london.com/sites/all/modules/admin_menu/admin_menu.css 0 19
+http://catalog.jk-london.com/admin/commerce/products/98/delete 1 7
+http://catalog.jk-london.com/modules/system/system.base.css 0 7
+http://catalog.jk-london.com/admin/commerce/products/82/delete 1 8
+http://catalog.jk-london.com/modules/system/system.theme.css 0 4
+http://catalog.jk-london.com/catalog/profiles/drupalife_store/themes/drupalife_store/images/menu-ico-dress.png 0 11
+http://catalog.jk-london.com/themes/seven/vertical-tabs.css 0 1
+http://catalog.jk-london.com/admin/commerce/config/payment-methods/manage/commerce_payment_commerce_sberbank_payment/edit/3 0 17
+http://catalog.jk-london.com/modules/system/system.messages.css 0 21
+http://catalog.jk-london.com/admin/commerce/products/96/delete 1 9
+http://catalog.jk-london.com/themes/seven/style.css 0 14
+http://catalog.jk-london.com/content/plate-6085 5 53
+http://catalog.jk-london.com/admin/commerce/products/97/delete 2 10
+http://catalog.jk-london.com/admin/commerce/config/payment-methods/manage/23 2 19
+http://catalog.jk-london.com/dostavka-i-oplata 1 6
+http://catalog.jk-london.com/admin/commerce/products/76/delete 1 4
+http://catalog.jk-london.com/login 1 40
+http://catalog.jk-london.com/admin/structure/block/manage/block/7/configure 2 15
+http://catalog.jk-london.com/kachestvo-i-garantiya 2 12
+http://catalog.jk-london.com/admin/commerce/products/78/delete 1 8
+http://catalog.jk-london.com/news 1 19
+http://catalog.jk-london.com/admin/commerce/products/94/delete 1 5
+http://catalog.jk-london.com/catalog/zhakety 3 146
+http://catalog.jk-london.com/o-nas 2 4
+http://catalog.jk-london.com/catalog/platya 3 36
+http://catalog.jk-london.com/admin/structure/menu/manage/menu-catalogmenu/list 2 11
+http://catalog.jk-london.com/sites/all/modules/admin_menu/admin_menu_toolbar/admin_menu_toolbar.css 0 9
+http://catalog.jk-london.com/admin/structure/menu/item/820/edit 2 3
+http://catalog.jk-london.com/admin/content 1 41
+http://catalog.jk-london.com/content/plate-jlondon-no6035 1 1
+http://catalog.jk-london.com/profiles/drupalife_store/libraries/nivo-slider/themes/default/default.css 0 126
+http://catalog.jk-london.com/admin/modules 3 50
+http://catalog.jk-london.com/admin/commerce/products/86/delete 1 7
+http://m.vk.com/away.php 2 2
+http://catalog.jk-london.com/sites/all/modules/admin_menu/admin_menu.uid1.css 0 9
+http://catalog.jk-london.com/sites/all/modules/popup/popup.css 0 5
+http://catalog.jk-london.com/admin/commerce/products/74/delete 1 4
+http://catalog.jk-london.com/profiles/drupalife_store/themes/drupalife_store/css/styles.css 0 323
+http://catalog.jk-london.com/modules/contextual/contextual.css 0 10
+http://catalog.jk-london.com/admin/commerce/products/77/delete 1 7
+http://test-pro.lead-group.pro/content/plate-jlondon-no6160 2 2
+http://catalog.jk-london.com/sites/all/modules/jcarousel/skins/default/jcarousel-default.css 0 1
+http://catalog.jk-london.com/content/plate-jlondon-no6105 2 7
+http://catalog.jk-london.com/admin/config 0 31
+http://catalog.jk-london.com/admin/commerce/products/80/delete 1 8
+http://catalog.jk-london.com/catalog 1 6
+http://catalog.jk-london.com/install.php 2 2
+http://catalog.jk-london.com/admin/structure/block/manage/block/4/configure 2 16
+http://catalog.jk-london.com/catalog/bluzki 1 16
+http://catalog.jk-london.com/admin/structure/block/manage/block/6/configure 3 60
+http://catalog.jk-london.com/admin/commerce/products/81/delete 1 1
+http://catalog.jk-london.com/admin/commerce/products/100/delete 1 8
+http://catalog.jk-london.com/admin/commerce/config/payment-methods 1 3
+http://catalog.jk-london.com/profiles/drupalife_store/libraries/ckeditor/skins/moono/editor.css 0 1
+END_PAGEREFS
+
+# Search keyphrases - Number of search
+# The 10 first number of search must be first (order not required for others)
+BEGIN_SEARCHWORDS 0
+END_SEARCHWORDS
+
+# Search keywords - Number of search
+# The 10 first number of search must be first (order not required for others)
+BEGIN_KEYWORDS 0
+END_KEYWORDS
+
+# Errors - Hits - Bandwidth
+BEGIN_ERRORS 6
+403 11 31812
+302 59 0
+206 34 10904047
+500 419 473839
+404 1183 9123839
+301 8 1896
+END_ERRORS
+
+# URL with 404 errors - Hits - Last URL referer
+BEGIN_SIDER_404 133
+/catalog/ 2 -
+/vendor/elfinder/elfinder.html 1 -
+/ 2 -
+/vk.com 1 http://catalog.jk-london.com/
+/catalog/sites/default/files/styles/large/public/koo_4793_1.jpg 3 http://jk-london.com/catalog/
+/catalog/sites/default/files/styles/large/public/koo_5412_1.jpg 3 http://jk-london.com/catalog/
+/jk-london/jk-london/catalog/sites/default/files/styles/large/public/koo_3922_1.jpg 2 http://jk-london.com/jk-london/catalog/news
+/catalog/content/plate-6085 1 -
+/facebook.com 1 http://catalog.jk-london.com/
+/css/bootstrap.css.map 40 -
+/Public/static/elfinder/elfinder.html 1 -
+/profiles/drupalife_store/themes/drupalife_store/images/icon-bag.png 50 http://jk-london.com/catalog/sites/default/files/color/drupalife_store-c679ba00/color.css
+/catalog/sites/default/files/styles/large/public/koo_4060_1.jpg 3 http://jk-london.com/catalog/
+/jk-london/jk-london/catalog/sites/default/files/styles/large/public/koo_5758_1.jpg 2 http://jk-london.com/jk-london/catalog/news
+/catalog/catalog/yubki 6 http://jk-london.com/catalog/
+/js/lib/elfinder/elfinder.html 1 -
+/jk-london/catalog/sites/default/files/styles/default/public/banner/headerpic.jpg 178 http://jk-london.com/catalog/yubki
+/jk-london/catalog/sites/default/files/styles/large/public/koo_4927_1.jpg 9 http://jk-london.com/catalog/news
+/catalog/sites/default/files/styles/large/public/koo_5758_1.jpg 3 http://jk-london.com/catalog/
+/jk-london/jk-london/catalog/sites/default/files/styles/default/public/banner/headerpic1.jpg 5 http://jk-london.com/jk-london/catalog/news
+/catalog/sites/default/files/styles/large/public/koo_3898_1.jpg 3 http://jk-london.com/catalog/
+/css/fancybox_loading.gif 1 http://jk-london.com/css/jquery.fancybox.css
+/catalog/catalog/platya 2 http://jk-london.com/catalog/
+/jk-london/catalog/profiles/drupalife_store/themes/drupalife_store/images/menu-ico-skirts.png 2 http://jk-london.com/jk-london/catalog/profiles/drupalife_store/themes/drupalife_store/css/styles.css
+/ext/elFinder/elfinder.html 1 -
+/catalog/sites/default/files/styles/large/public/koo_3961_1.jpg 3 http://jk-london.com/catalog/
+/jk-london/jk-london/catalog/sites/default/files/languages/ru_xbmUuR41T-JufBe-auMCEDIZEvWBqvSS8kFikNQA4_s.js 7 http://jk-london.com/jk-london/catalog/news
+/jk-london/jk-london/catalog/sites/default/files/styles/large/public/koo_4927_1.jpg 2 http://jk-london.com/jk-london/catalog/news
+/jk-london/catalog/catalog/bryuki 1 http://jk-london.com/catalog/news
+/jk-london/jk-london/catalog/sites/default/files/styles/default/public/banner/headerpic.jpg 4 http://jk-london.com/jk-london/catalog/news
+/catalog/profiles/drupalife_store/themes/drupalife_store/images/icotext3.jpg 14 http://jk-london.com/catalog/news
+/catalog/profiles/drupalife_store/themes/drupalife_store/images/logo-footer.png 14 http://jk-london.com/catalog/news
+/jk-london/jk-london/catalog/sites/default/files/styles/large/public/koo_4337_1.jpg 2 http://jk-london.com/jk-london/catalog/news
+/js/script.js 139 http://jk-london.com/
+/login 2 -
+/jk-london/jk-london/catalog/sites/default/files/styles/large/public/koo_4672_2.jpg 2 http://jk-london.com/jk-london/catalog/news
+/jk-london/catalog/profiles/drupalife_store/themes/drupalife_store/images/menu-ico-pants.png 2 http://jk-london.com/jk-london/catalog/profiles/drupalife_store/themes/drupalife_store/css/styles.css
+/catalog/sites/default/files/styles/large/public/koo_3940_1.jpg 3 http://jk-london.com/catalog/
+/jk-london/catalog/sites/default/files/styles/large/public/koo_5758_1.jpg 9 http://jk-london.com/catalog/news
+/jk-london/catalog/sites/default/files/styles/large/public/koo_3961_1.jpg 9 http://jk-london.com/catalog/news
+/css/nav-icon.png 9 http://jk-london.com/css/menu.css
+/catalog/sites/default/files/styles/large/public/koo_3922_1.jpg 3 http://jk-london.com/catalog/
+/jk-london/jk-london/catalog/sites/default/files/styles/large/public/koo_3940_1.jpg 2 http://jk-london.com/jk-london/catalog/news
+/jk-london/catalog/sites/default/files/styles/large/public/koo_4020_1.jpg 9 http://jk-london.com/catalog/news
+/jk-london/jk-london/catalog/sites/default/files/styles/large/public/koo_4020_1.jpg 2 http://jk-london.com/jk-london/catalog/news
+/jk-london/catalog/sites/default/files/styles/large/public/koo_4313_1.jpg 9 http://jk-london.com/catalog/news
+/sites/default/files/koo_5417.jpg 1 http://catalog.jk-london.com/content/bryuki-10458
+/jk-london/catalog/content/bluzka-vesna 1 http://jk-london.com/catalog/o-nas
+/catalog/user 1 -
+/jk-london/catalog/kachestvo-i-garantiya 2 http://jk-london.com/catalog/user
+/catalog/profiles/drupalife_store/themes/drupalife_store/images/icotext1.jpg 14 http://jk-london.com/catalog/news
+/jk-london/jk-london/catalog/sites/default/files/styles/large/public/koo_3961_1.jpg 2 http://jk-london.com/jk-london/catalog/news
+/catalog/profiles/drupalife_store/themes/drupalife_store/images/soc-icon-vk.png 14 http://jk-london.com/catalog/news
+/jk-london/catalog/sites/default/files/styles/large/public/koo_5158_1.jpg 9 http://jk-london.com/catalog/news
+/jk-london/catalog/sites/default/files/styles/large/public/koo_4530_1.jpg 9 http://jk-london.com/catalog/news
+/jk-london/jk-london/catalog/sites/default/files/styles/large/public/d824e0ea3c3c36bac2e910c6224fae2d_1.jpg 2 http://jk-london.com/jk-london/catalog/news
+/catalog/admin_menu/flush-cache 1 http://jk-london.com/catalog/
+/jk-london/catalog/sites/default/files/styles/large/public/d824e0ea3c3c36bac2e910c6224fae2d_1.jpg 9 http://jk-london.com/catalog/news
+/jk-london/catalog/sites/default/files/styles/large/public/koo_4337_1.jpg 9 http://jk-london.com/catalog/news
+/jk-london/jk-london/catalog/sites/default/files/styles/large/public/koo_4121.jpg 2 http://jk-london.com/jk-london/catalog/news
+/catalog/sites/default/files/styles/large/public/koo_4313_1.jpg 3 http://jk-london.com/catalog/
+/catalog/catalog/bryuki 1 http://jk-london.com/catalog/
+/jk-london/catalog/sites/default/files/styles/large/public/koo_4337_0.jpg 9 http://jk-london.com/catalog/news
+/catalog/sites/default/files/styles/default/public/banner/headerpic1.jpg 29 http://jk-london.com/catalog/
+/catalog/sites/default/files/styles/large/public/koo_4530_1.jpg 3 http://jk-london.com/catalog/
+/catalog/profiles/drupalife_store/themes/drupalife_store/images/icotext2.jpg 14 http://jk-london.com/catalog/news
+/robots.txt 4 -
+/catalog/profiles/drupalife_store/themes/drupalife_store/images/icotext4.jpg 14 http://jk-london.com/catalog/news
+/user 2 -
+/catalog/sites/default/files/styles/large/public/koo_4927_1.jpg 3 http://jk-london.com/catalog/
+/catalog/sites/default/files/styles/large/public/koo_4337_0.jpg 3 http://jk-london.com/catalog/
+/catalog/sites/default/files/styles/large/public/koo_4672_2.jpg 3 http://jk-london.com/catalog/
+/jk-london/jk-london/catalog/kachestvo-i-garantiya 1 http://jk-london.com/jk-london/catalog/news
+/jk-london/jk-london/catalog/sites/default/files/styles/large/public/koo_4035_1.jpg 2 http://jk-london.com/jk-london/catalog/news
+/logo.png 2 http://jk-london.com/catalog/install.php
+/catalog/profiles/drupalife_store/themes/drupalife_store/images/soc-icon-fb.png 14 http://jk-london.com/catalog/news
+/jk-london/catalog/sites/default/files/styles/large/public/koo_3922_1.jpg 9 http://jk-london.com/catalog/news
+/jk-london/catalog/sites/default/files/styles/large/public/koo_4035_1.jpg 9 http://jk-london.com/catalog/news
+/jk-london/catalog/sites/default/files/styles/large/public/koo_4090_0.jpg 9 http://jk-london.com/catalog/news
+/catalog/kachestvo-i-garantiya 1 http://jk-london.com/catalog/
+/catalog/profiles/drupalife_store/themes/drupalife_store/images/soc-icon-youtube.png 14 http://jk-london.com/catalog/news
+/catalog/sites/default/files/styles/default/public/banner/headerpic.jpg 30 http://jk-london.com/catalog/
+/catalog/o-nas 2 http://jk-london.com/catalog/
+/catalog/sites/default/files/styles/large/public/koo_4020_1.jpg 3 http://jk-london.com/catalog/
+/webroot/plugins/elfinder/elfinder.html 1 -
+/misc/throbber.gif 2 http://jk-london.com/catalog/sites/all/modules/popup/popup.css
+/jk-london/jk-london/catalog/sites/default/files/styles/large/public/koo_4337_0.jpg 2 http://jk-london.com/jk-london/catalog/news
+/jk-london/catalog/sites/default/files/styles/large/public/koo_3898_1.jpg 9 http://jk-london.com/catalog/news
+/webszerk/elfinder/elfinder.html 1 -
+/catalog/sites/default/files/styles/large/public/d824e0ea3c3c36bac2e910c6224fae2d_1.jpg 3 http://jk-london.com/catalog/
+/jk-london/jk-london/catalog/sites/default/files/styles/large/public/koo_4313_1.jpg 2 http://jk-london.com/jk-london/catalog/news
+/catalog/admin/reports/status/run-cron 1 http://jk-london.com/catalog/
+/jk-london/catalog/sites/default/files/styles/large/public/koo_4672_2.jpg 9 http://jk-london.com/catalog/news
+/jk-london/catalog/profiles/drupalife_store/themes/drupalife_store/images/menu-ico-jacket.png 2 http://jk-london.com/jk-london/catalog/profiles/drupalife_store/themes/drupalife_store/css/styles.css
+/catalog/sites/default/files/styles/large/public/koo_4035_1.jpg 3 http://jk-london.com/catalog/
+/jk-london/catalog/sites/default/files/styles/large/public/koo_3940_1.jpg 9 http://jk-london.com/catalog/news
+/catalog/sites/default/files/styles/large/public/koo_4090_0.jpg 3 http://jk-london.com/catalog/
+/catalog/sites/default/files/styles/large/public/koo_4337_1.jpg 3 http://jk-london.com/catalog/
+/jk-london/jk-london/catalog/sites/default/files/styles/large/public/koo_5412_1.jpg 2 http://jk-london.com/jk-london/catalog/news
+/jk-london/catalog/sites/default/files/styles/large/public/koo_3994_1.jpg 9 http://jk-london.com/catalog/news
+/catalog/profiles/drupalife_store/themes/drupalife_store/images/close.png 1 http://jk-london.com/catalog/profiles/drupalife_store/themes/drupalife_store/css/styles.css
+/catalog/sites/default/files/styles/large/public/koo_5158_1.jpg 3 http://jk-london.com/catalog/
+/catalog 1 -
+/jk-london/catalog/profiles/drupalife_store/themes/drupalife_store/images/footer-background.jpg 2 http://jk-london.com/jk-london/catalog/profiles/drupalife_store/themes/drupalife_store/css/styles.css
+/jk-london/jk-london/catalog/sites/default/files/styles/large/public/koo_5158_1.jpg 2 http://jk-london.com/jk-london/catalog/news
+/jk-london/catalog/sites/default/files/styles/default/public/banner/headerpic1.jpg 178 http://jk-london.com/catalog/yubki
+/jk-london/catalog/sites/default/files/styles/large/public/koo_5412_1.jpg 9 http://jk-london.com/catalog/news
+/jk-london/catalog/profiles/drupalife_store/themes/drupalife_store/images/menu-ico-shirts.png 2 http://jk-london.com/jk-london/catalog/profiles/drupalife_store/themes/drupalife_store/css/styles.css
+/catalog/checkout/52 1 http://jk-london.com/catalog/checkout/52
+/jk-london/jk-london/catalog/sites/default/files/styles/large/public/koo_4060_1.jpg 2 http://jk-london.com/jk-london/catalog/news
+/jk-london/jk-london/catalog/sites/default/files/styles/large/public/koo_4793_1.jpg 2 http://jk-london.com/jk-london/catalog/news
+/jk-london/catalog/profiles/drupalife_store/themes/drupalife_store/images/menu-ico-dress.png 2 http://jk-london.com/jk-london/catalog/profiles/drupalife_store/themes/drupalife_store/css/styles.css
+/jk-london/catalog/sites/default/files/styles/large/public/koo_4793_1.jpg 9 http://jk-london.com/catalog/news
+/jk-london/jk-london/catalog/sites/default/files/styles/large/public/koo_4090_0.jpg 2 http://jk-london.com/jk-london/catalog/news
+/jk-london/catalog/sites/default/files/styles/large/public/koo_4060_1.jpg 9 http://jk-london.com/catalog/news
+/catalog/js/admin_menu/cache/6829a4953403a659328af8fa9092e93a 6 http://jk-london.com/catalog/
+/jk-london/jk-london/catalog/content/plate-6085 1 http://jk-london.com/jk-london/catalog/user
+/jk-london/catalog/catalog/yubki 1 http://jk-london.com/catalog/news
+/jk-london/catalog/sites/default/files/styles/large/public/koo_4121.jpg 9 http://jk-london.com/catalog/news
+/catalog/sites/default/files/languages/ru_xbmUuR41T-JufBe-auMCEDIZEvWBqvSS8kFikNQA4_s.js 4 http://jk-london.com/catalog/
+/jk-london/catalog/sites/default/files/languages/ru_xbmUuR41T-JufBe-auMCEDIZEvWBqvSS8kFikNQA4_s.js 11 http://jk-london.com/catalog/news
+/catalog/profiles/drupalife_store/themes/drupalife_store/images/soc-icon-twitter.png 14 http://jk-london.com/catalog/news
+/jk-london/jk-london/catalog/sites/default/files/styles/large/public/koo_4530_1.jpg 2 http://jk-london.com/jk-london/catalog/news
+/catalog/dostavka-i-oplata 2 http://jk-london.com/catalog/
+/catalog/sites/default/files/styles/large/public/koo_4121.jpg 3 http://jk-london.com/catalog/
+/jk-london/jk-london/catalog/sites/default/files/styles/large/public/koo_3898_1.jpg 2 http://jk-london.com/jk-london/catalog/news
+/sites/default/files/koo_4927.jpg 1 http://catalog.jk-london.com/admin/commerce/products/79/delete
+/catalog/news 1 http://jk-london.com/catalog/
+/jk-london/catalog/catalog/zhakety 1 http://jk-london.com/catalog/yubki
+/catalog/sites/default/files/styles/large/public/koo_3994_1.jpg 3 http://jk-london.com/catalog/
+/ahah/popup/block/4ec1264b61cafd86792a284995c71be2 2 http://jk-london.com/catalog/
+/jk-london/jk-london/catalog/sites/default/files/styles/large/public/koo_3994_1.jpg 2 http://jk-london.com/jk-london/catalog/news
+/catalog/js/admin_menu/cache/13572f0eedd626907fada49459a50e4c 2 http://jk-london.com/catalog/
+END_SIDER_404
+
+# Host - Pages - Hits - Bandwidth - Last visit date - [Start date of last visit] - [Last page of last visit]
+# [Start date of last visit] and [Last page of last visit] are saved only if session is not finished
+# The 10 first Hits must be first (order not required for others)
+BEGIN_VISITOR 36
+46.149.87.236 205 2791 47486589 20160831195853
+141.101.17.216 191 6335 184873338 20160829171620
+80.252.243.213 174 2845 202929274 20160831182600
+95.132.247.109 162 2854 109164685 20160831230029
+212.92.228.178 152 1209 68098560 20160827142242
+46.20.68.157 110 2800 71178392 20160830123955
+38.99.82.191 58 131 8028925 20160829060533
+37.140.192.200 57 2975 96951654 20160830220800
+212.92.239.96 52 1732 32190882 20160830165832
+141.101.234.250 40 411 15668565 20160829151218
+195.154.146.225 1 1 63370 20160830161648
+37.73.248.139 5 420 17427879 20160829154845
+78.111.188.3 10 65 4669394 20160830191119
+37.73.226.217 2 2 123820 20160829202520
+38.99.82.192 5 28 767254 20160829042703
+46.211.154.34 2 3 1627559 20160828151532
+176.107.245.24 20 240 24710437 20160828121819
+188.128.123.6 1 1 63412 20160830211452
+91.210.147.155 2 2 122742 20160827134548
+37.73.250.13 8 8 490968 20160827012750
+89.109.227.143 10 134 14993333 20160829111836
+195.216.213.64 14 237 15889508 20160831215547
+188.191.239.232 10 132 14992923 20160831143803
+66.249.93.247 22 245 25759833 20160829105356
+66.249.93.245 20 265 27212092 20160829105356
+46.200.62.127 16 155 16572967 20160828151450
+66.249.93.249 18 267 26826639 20160829105356
+37.52.74.205 2 14 79768 20160827210355
+37.115.218.220 3 3 184113 20160827131058
+141.101.31.4 3 244 14333368 20160831125639
+94.179.2.210 10 132 14994230 20160831162515
+89.28.12.13 12 659 4836757 20160829164021
+213.87.148.158 5 19 4526995 20160830162321
+37.73.253.84 10 127 13037655 20160831120131
+37.204.169.65 1 23 2457284 20160827163239
+95.25.82.106 10 133 14993278 20160828235554
+END_VISITOR
+
+# Date - Pages - Hits - Bandwidth - Visits
+BEGIN_DAY 5
+20160827 250 2196 145554544 15
+20160828 33 416 48234216 5
+20160829 513 12349 403869316 24
+20160830 132 5034 159732304 15
+20160831 495 7618 375737218 16
+END_DAY
+
+# Session range - Number of visits
+BEGIN_SESSION 7
+1h+ 9
+5mn-15mn 6
+0s-30s 38
+30s-2mn 6
+15mn-30mn 2
+2mn-5mn 8
+30mn-1h 6
+END_SESSION
+
+# URL - Pages - Bandwidth - Entry - Exit
+# The 10 first Pages must be first (order not required for others)
+BEGIN_SIDER 157
+/ 214 14225810 51 18
+/catalog/ 83 5945947 12 3
+/fonts/SFUIDisplay/SFUIDisplay-Light.otf 79 7825872 1 2
+/fonts/SFUIDisplay/SFUIDisplay-Semibold.otf 78 7906752 1 4
+/fonts/SFUIDisplay/SFUIDisplay-Thin.otf 78 7486528 0 10
+/fonts/SFUIDisplay/SFUIDisplay-Medium.otf 78 7891296 0 2
+/fonts/SFUIDisplay/SFUIDisplay-Regular.otf 77 7052320 0 2
+/fonts/SFUIDisplay/SFUIDisplay-Heavy.otf 77 7959160 1 2
+/fonts/SFUIDisplay/SFUIDisplay-Bold.otf 76 7694136 1 0
+/fonts/philosopher/Philosopher-Bold.ttf 75 15853500 0 0
+/admin/config 1 23037 0 0
+/catalog/admin/commerce/products/types/paints/display/line_item 2 220255 0 0
+/jk-london/catalog/videos/_0134_3_wmv.webm 1 63412 0 1
+/catalog/checkout/49 1 43146 0 0
+/admin.php 1 61371 1 0
+/admin/structure/block/manage/block/6/configure 1 36883 0 0
+/admin/commerce/products/96/delete 1 19109 0 0
+/catalog/content/plate-6085 8 358894 0 0
+/css/bootstrap.css.map 3 190110 0 0
+/catalog/admin/modules 6 2026091 0 0
+/catalog/catalog/user 1 63370 0 0
+/catalog/catalog/yubki 4 253522 0 0
+/fonts/glyphicons-halflings-regular.woff 8 187392 0 0
+/admin/structure/block/manage/block/7/configure 1 37486 0 0
+/catalog/content/yubka-jlondon-no2026 2 79278 0 0
+/catalog/content/videos/_0134_3_wmv.webm 1 63370 0 0
+/admin/structure/menu/manage/menu-catalogmenu/list 1 35581 0 0
+/catalog/admin/commerce/config/videos/_0134_3_wmv.webm 2 126740 0 0
+/catalog/admin/commerce/products/types/jackets/display 1 58203 0 0
+/catalog/catalog/platya 4 227123 1 0
+/catalog/admin/commerce/config/payment-methods/manage/13/enable 1 12314 0 0
+/catalog/js/videos/_0134_3_wmv.webm 1 63370 0 0
+/catalog/admin/commerce/config/sberbank 2 76412 0 0
+/catalog/js/admin_menu/cache/cc15ee09bdf33eba91783cc6a31d55da 1 10106 0 0
+/catalog/yubki 10 353604 1 0
+/catalog/admin/commerce/products/types/dress/display 1 58150 0 0
+/catalog/admin/commerce/orders 2 32408 0 0
+/application1.php 19 176627 1 1
+/catalog/admin/commerce/products/types/shirts/display/line_item 1 54107 0 0
+/jk-london/catalog/user 1 63924 0 0
+/admin/commerce/products/81/delete 1 18827 0 0
+/catalog/node/78/edit 3 187419 0 0
+/user/1/orders 1 63370 0 0
+/catalog/sberbank/pay 1 29659 0 0
+/wp-login.php 1 61371 0 1
+/dostavka-i-oplata 1 24404 0 0
+/admin/structure/block/manage/block/4/configure 1 41098 0 0
+/admin/commerce/config/sberbank 1 12973 0 0
+/catalog/js/admin_menu/cache/0a403dc28e873c295fc8bcc4fe1318b9 1 10087 0 0
+/catalog/bluzki 2 63674 0 0
+/catalog/admin/commerce/customer-profiles/types/billing/fields 1 44582 0 0
+/catalog/admin/commerce/config/payment-methods/manage/13 1 25709 0 0
+/catalog/platya 4 174812 0 0
+/jk-london/catalog/profiles/drupalife_store/themes/drupalife_store/font/fontello.woff 5 24000 0 0
+/catalog/catalog/videos/_0134_3_wmv.webm 7 443632 0 1
+/catalog/user 5 308648 0 0
+/js/admin_menu/cache/fefe1cce09e9db44640396e522cdd47b 1 10020 0 0
+/profiles/drupalife_store/themes/drupalife_store/font/fontello.woff 35 168000 0 2
+/system/ajax 3 4740 0 0
+/catalog/videos/_0134_3_wmv.webm 8 507170 0 0
+/content/plate-jlondon-no6160 1 24763 0 0
+/admin/commerce/products/72/delete 1 17333 0 0
+/admin/commerce/products/86/delete 1 17733 0 0
+/catalog/js/admin_menu/cache/c9e83c3c4fe28c43b1ef00cff7bb2c91 1 10108 0 0
+/admin/commerce/products/97/delete 2 37110 0 0
+/news 2 66186 0 0
+/catalog/admin/videos/_0134_3_wmv.webm 1 63370 0 0
+/content/videos/_0134_3_wmv.webm 1 63370 0 0
+/admin/commerce/products/79/delete 1 18428 0 0
+/catalog/admin/commerce/orders/49 1 16535 0 0
+/admin/structure/menu/item/820/edit 1 31327 0 0
+/o-nas 1 28551 0 0
+/js/admin_menu/cache/75ffc901bf8e4910ff7c5a28bec70b89 1 10034 0 0
+/admin/commerce/products/100/delete 1 18735 0 0
+/admin/commerce/products/80/delete 1 18394 0 0
+/install.php 4 1316 0 1
+/administrator/index.php 1 61371 0 0
+/catalog/admin/commerce/orders/50/delete 1 13072 0 0
+/admin/commerce/products/78/delete 1 18873 0 0
+/jk-london/jk-london/catalog/profiles/drupalife_store/themes/drupalife_store/font/fontello.woff 2 9600 0 0
+/catalog/admin/structure/views 2 172798 0 0
+/catalog/catalog/bryuki 1 63370 0 0
+/js/admin_menu/cache/2fb5aef8d95cc11b046678f465ea0458 1 10026 0 0
+/catalog/content/plate-jlondon-no6160 2 60027 0 0
+/catalog/js/admin_menu/cache/fe5071971626bb3de6395bbf82bf885c 2 20220 0 1
+/admin/content 2 109184 1 0
+/catalog/catalog/js/videos/_0134_3_wmv.webm 1 63370 0 0
+/content/bryuki-10458 2 69030 0 0
+/admin/commerce/products/98/delete 1 18405 0 0
+/user/1/videos/_0134_3_wmv.webm 1 63370 0 0
+/css/fonts/slick.woff 2 126740 1 0
+/js/admin_menu/cache/cf84f4971ed2f048f77b4fecc6d5ee74 1 10022 0 1
+/jk-london/catalog/news 4 244164 0 0
+/catalog/install.php 2 16158 0 0
+/admin/commerce/products/77/delete 1 18453 0 0
+/user 13 413996 0 0
+/js/admin_menu/cache/6788507d3f3d0e7f9c2de4b6089f36f7 2 20058 0 0
+/catalog/js/admin_menu/cache/97aeace270eb55cdc8395c710ff991db 1 10080 0 0
+/js/admin_menu/cache/3b33e99bc52f02b308e9838accba9172 1 10024 0 0
+/ckeditor/xss 3 5143 0 0
+/checkout/53 1 37879 0 0
+/catalog/kachestvo-i-garantiya 1 29663 0 0
+/catalog/contact 1 62187 0 0
+/content/plate-6085 6 232639 0 0
+/catalog/profiles/drupalife_store/themes/drupalife_store/font/fontello.woff 38 182400 0 3
+/catalog/checkout/51 1 42268 0 0
+/catalog/o-nas 4 261241 0 0
+/catalog/catalog/bluzki 1 63370 0 0
+/catalog/news/8-stilnaya-i-legkaya-bluzka 3 94335 0 0
+/catalog/admin/commerce/config/payment-methods 4 71087 0 0
+/jk-london/catalog/ 2 124386 0 0
+/admin/modules 2 695596 0 0
+/fonts/glyphicons-halflings-regular.woff2 60 1081680 0 11
+/catalog/admin/commerce/products/types/dress/display/line_item 2 220225 0 0
+/admin/commerce/config/payment-methods/manage/23 1 25674 0 0
+/catalog/system/ajax 5 8195 0 0
+/js/admin_menu/cache/e162b536d2b756409083855c267a0f62 2 20050 0 0
+/catalog/cart 13 655128 0 1
+/kachestvo-i-garantiya 2 48880 0 0
+/admin/commerce/products/74/delete 1 17347 0 0
+/catalog/zhakety 6 176968 0 1
+/js/admin_menu/cache/aa34f0cf0364045cad360edeb3ddedfb 1 10029 0 1
+/catalog 1 32538 0 0
+/catalog/checkout/52 3 124931 0 0
+/admin/commerce/config/payment-methods 1 19438 0 0
+/catalog/admin/commerce/products/types/jackets/display/line_item 2 220309 0 0
+/users/admin 8 880955 0 0
+/blog/ 1 61371 0 1
+/admin/commerce/products/82/delete 1 18821 0 0
+/catalog/admin/commerce/products/types/skirts/display/line_item 2 220336 0 0
+/fonts/glyphicons-halflings-regular.ttf 9 408636 1 0
+/catalog/checkout/51/payment 1 31019 0 0
+/css/fonts/slick.eot 1 63370 0 0
+/admin/commerce/products 17 456168 0 0
+/catalog/admin/commerce/orders/carts 2 36934 0 0
+/fonts/glyphicons-halflings-regular.eot 1 20127 0 0
+/catalog/js/admin_menu/cache/6829a4953403a659328af8fa9092e93a 1 10105 0 0
+/cart 5 155937 0 0
+/catalog/bryuki 5 153103 0 0
+/catalog/admin/commerce/config/payment-methods/manage/10/disable 1 12372 0 0
+/content/plate-jlondon-no6105 1 29644 0 0
+/catalog/checkout/49/payment 2 94389 0 1
+/catalog/admin/structure/views/ajax/config-item/commerce_cart_summary/default/field/commerce_product 2 117902 0 0
+/catalog/admin/structure/views/view/commerce_cart_summary/preview/default/ajax 1 8014 0 0
+/catalog/dostavka-i-oplata 1 63370 0 1
+/js/admin_menu/cache/f788e869af15ed8078bcda8c18bcb06e 2 20056 0 0
+/catalog/news 18 1129902 0 0
+/admin/structure/block 7 1313505 1 2
+/content/plate-jlondon-no6035 1 30806 0 0
+/admin/commerce/products/94/delete 1 16875 0 0
+/admin/commerce/products/76/delete 1 17199 0 0
+/catalog/checkout/52/payment 1 30982 0 0
+/catalog/akcii 1 63113 0 0
+/ahah/popup/block/4ec1264b61cafd86792a284995c71be2 3 5597 0 0
+/css/fonts/slick.ttf 2 126740 0 1
+/catalog/admin/structure/views/view/commerce_cart_summary/edit 1 47163 0 0
+/admin/commerce/config/payment-methods/manage/commerce_payment_commerce_sberbank_payment/edit/3 1 23269 0 0
+END_SIDER

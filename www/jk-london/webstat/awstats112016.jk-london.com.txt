@@ -1,0 +1,750 @@
+AWSTATS DATA FILE 7.0 (build 1.971)
+# If you remove this file, all statistics for date 201611 will be lost/reset.
+# Last config file used to build this data file was /etc/awstats/awstats.jk-london.com.conf.
+
+# Position (offset in bytes) in this file for beginning of each section for
+# direct I/O access. If you made changes somewhere in this file, you should
+# also remove completely the MAP section (AWStats will rewrite it at next
+# update).
+BEGIN_MAP 27
+POS_GENERAL 1993                
+POS_TIME 2664                
+POS_VISITOR 14776               
+POS_DAY 23245               
+POS_DOMAIN 3597                
+POS_LOGIN 3833                
+POS_ROBOT 3988                
+POS_WORMS 4709                
+POS_EMAILSENDER 4840                
+POS_EMAILRECEIVER 4983                
+POS_SESSION 24134               
+POS_SIDER 24344               
+POS_FILETYPES 5118                
+POS_DOWNLOADS 5486                
+POS_OS 5575                
+POS_BROWSER 5745                
+POS_SCREENSIZE 7105                
+POS_UNKNOWNREFERER 7179                
+POS_UNKNOWNREFERERBROWSER 7493                
+POS_ORIGIN 7609                
+POS_SEREFERRALS 7754                
+POS_PAGEREFS 7936                
+POS_SEARCHWORDS 8333                
+POS_KEYWORDS 8844                
+POS_MISC 2328                
+POS_ERRORS 9196                
+POS_CLUSTER 3689                
+POS_SIDER_404 9303                
+END_MAP
+
+# LastLine    = Date of last record processed - Last record line number in last log - Last record offset in last log - Last record signature value
+# FirstTime   = Date of first visit for history file
+# LastTime    = Date of last visit for history file
+# LastUpdate  = Date of last update - Nb of parsed records - Nb of parsed old records - Nb of parsed new records - Nb of parsed corrupted - Nb of parsed dropped
+# TotalVisits = Number of visits
+# TotalUnique = Number of unique visitors
+# MonthHostsKnown   = Number of hosts known
+# MonthHostsUnKnown = Number of hosts unknown
+BEGIN_GENERAL 8
+LastLine 20161201030614 1 0 8598717131304
+FirstTime 20161101001428
+LastTime 20161130225209
+LastUpdate 20161201040230 1 0 0 0 0
+TotalVisits 240                 
+TotalUnique 191                 
+MonthHostsKnown 0                   
+MonthHostsUnknown 201                 
+END_GENERAL
+
+# Misc ID - Pages - Hits - Bandwidth
+BEGIN_MISC 10
+QuickTimeSupport 0 0 0
+JavaEnabled 0 0 0
+JavascriptDisabled 0 0 0
+PDFSupport 0 0 0
+WindowsMediaPlayerSupport 0 0 0
+AddToFavourites 0 0 0
+RealPlayerSupport 0 0 0
+TotalMisc 0 0 0
+DirectorSupport 0 0 0
+FlashSupport 0 0 0
+END_MISC
+
+# Hour - Pages - Hits - Bandwidth - Not viewed Pages - Not viewed Hits - Not viewed Bandwidth
+BEGIN_TIME 24
+0 29 273 33248307 9 32 909514
+1 14 144 14993267 13 45 1450851
+2 33 430 55339270 26 137 3472914
+3 3 3 275112 8 18 765310
+4 5 138 14248482 15 82 1453820
+5 4 4 366730 16 79 1730330
+6 32 196 17755083 23 71 2189278
+7 14 191 27463742 28 101 3251846
+8 12 146 18128684 16 112 2952584
+9 36 436 52261554 21 107 6591265
+10 69 868 106335881 9 79 6240156
+11 89 1310 151300650 23 126 9342319
+12 113 1314 159196067 42 176 4332406
+13 94 1064 132077643 27 83 1542862
+14 168 2295 247051414 43 153 3646472
+15 175 2148 267706422 39 151 1814152
+16 122 1416 180215001 37 131 6759786
+17 82 1021 119621545 10 55 1295276
+18 78 870 124355927 10 97 2008388
+19 132 1528 161732233 21 107 7853771
+20 90 1213 130802460 31 95 1355805
+21 41 437 51155924 24 92 1483286
+22 125 1401 180797616 32 155 5980342
+23 64 732 84045505 27 105 3607182
+END_TIME
+
+# Domain - Pages - Hits - Bandwidth
+# The 10 first Pages must be first (order not required for others)
+BEGIN_DOMAIN 1
+ip 1624 19578 2162848362
+END_DOMAIN
+
+# Cluster ID - Pages - Hits - Bandwidth
+BEGIN_CLUSTER 0
+END_CLUSTER
+
+# Login - Pages - Hits - Bandwidth - Last visit
+# The 10 first Pages must be first (order not required for others)
+BEGIN_LOGIN 0
+END_LOGIN
+
+# Robot ID - Hits - Bandwidth - Last visit - Hits on robots.txt
+# The 10 first Hits must be first (order not required for others)
+BEGIN_ROBOT 16
+yandex 679 19721442 20161130162036 0
+googlebot 408 18410625 20161129124928 0
+bot[\s_+:,\.\;\/\\-] 215 11836199 20161130211459 0
+favicon 24 1119183 20161123231523 0
+facebook 20 1242508 20161108134824 0
+robot 9 378244 20161117163503 0
+baiduspider 8 733589 20161127213253 0
+mail\.ru 5 377738 20161113085254 0
+surveybot 2 183365 20161121224836 0
+crawl 2 183365 20161130133157 0
+core 1 0 20161129023019 0
+no_user_agent 1 91618 20161115094400 0
+spider 1 91747 20161117163456 0
+ia_archiver 1 91747 20161122221112 0
+[\s_+:,\.\;\/\\-]bot 1 91618 20161109104256 0
+cfnetwork 1 5074 20161112232155 0
+END_ROBOT
+
+# Worm ID - Hits - Bandwidth - Last visit
+# The 5 first Hits must be first (order not required for others)
+BEGIN_WORMS 0
+END_WORMS
+
+# EMail - Hits - Bandwidth - Last visit
+# The 20 first Hits must be first (order not required for others)
+BEGIN_EMAILSENDER 0
+END_EMAILSENDER
+
+# EMail - Hits - Bandwidth - Last visit
+# The 20 first hits must be first (order not required for others)
+BEGIN_EMAILRECEIVER 0
+END_EMAILRECEIVER
+
+# Files type - Hits - Bandwidth - Bandwidth without compression - Bandwidth after compression
+BEGIN_FILETYPES 15
+eot 6 120762 0 0
+css 1305 6547994 0 0
+png 4736 580006914 0 0
+ttf 136 28747680 0 0
+woff 13 304512 0 0
+woff2 118 2109276 0 0
+otf 987 134620940 0 0
+php 53 757815 0 0
+mp4 34 149225093 0 0
+html 309 27779206 0 0
+jpg 10500 1165575896 0 0
+js 1240 18831874 0 0
+webm 2 6199868 0 0
+gif 4 172 0 0
+svg 135 63840 0 0
+END_FILETYPES
+
+# Downloads - Hits - Bandwidth
+BEGIN_DOWNLOADS 1
+/videos/_0134_3_wmv.mp4 16 159 191181613
+END_DOWNLOADS
+
+# OS ID - Hits
+BEGIN_OS 11
+blackberry 1
+linuxandroid 2821
+winxp 647
+winlong 7
+winnt 3968
+linux 590
+winvista 1961
+win7 7410
+macosx 2283
+win2003 39
+Unknown 10
+END_OS
+
+# Browser ID - Hits
+BEGIN_BROWSER 72
+firefox28.0 4
+msie6.0 1
+chrome40.0.2214.115 12
+chrome13.0.748.0 1
+chrome52.0.2743.116 161
+chrome41.0.2272.96 149
+firefox44.0 434
+chrome34.0.1847.137 1
+chrome39.0.2171.95 1
+firefox18.0 4
+chrome31.0.1650.57 135
+curl 5
+firefox49.0 756
+msie8.0 163
+safari10.0.1 71
+chrome50.0.2661.94 356
+msie7.0 12
+chrome53.0.2785.124 280
+chrome37.0.2062.120 148
+chrome27.0.1453.90 1
+chrome39.0.2146.0 149
+chrome49.0.2623.112 145
+chrome54.0.2840.59 437
+netscape 1
+firefox50.0 375
+firefox48.0 146
+firefox42.0 143
+safari6.0 146
+firefox29.0 29
+firefox38.0 4
+chrome30.0.1599.69 135
+chrome49.0.2623.75 1
+chrome54.0.2840.71 3058
+mozilla 7
+chrome44.0.2403.157 146
+firefox14.0.1 1
+firefox3.6.3 3
+chrome48.0.2564.103 1
+safari 7
+chrome34.0.1847.76 146
+chrome11.0.672.2 1
+firefox4.0.1 1
+android 140
+chrome43.0.2357.78 145
+opera9.80 154
+safari8.0.6 2
+chrome54.0.2840.87 145
+chrome34.0.1847.116 3
+chrome54.0.2840.68 430
+chrome53.0.2785.116 581
+safari8.0 268
+msie9.0 2
+Unknown 3
+chrome47.0.2526.83 304
+firefox11.0 1
+blackberry 1
+chrome53.0.2785.143 594
+safari10.0 1153
+chrome54.0.2840.99 5672
+chrome51.0.2704.79 440
+firefox46.0 1
+chrome52.0.2743.82 146
+safari9.0 628
+chrome45.0.2454.101 6
+chrome48.0.2564.109 2
+chrome51.0.2704.106 144
+msie10.0 134
+firefox3.6.28 1
+safari5.1 1
+chrome54.0.2840.85 567
+chrome48.0.2564.97 2
+chrome50.0.2661.240 290
+END_BROWSER
+
+# Screen size - Hits
+BEGIN_SCREENSIZE 0
+END_SCREENSIZE
+
+# Unknown referer OS - Last visit date
+BEGIN_UNKNOWNREFERER 4
+Mozilla 20161121002434
+PycURL/7.43.0_libcurl/7.22.0_OpenSSL/1.0.1_zlib/1.2.3.4_libidn/1.23_librtmp/2.3 20161129002042
+Mozilla/5.0_(compatible;_vkShare;__http://vk.com/dev/Share) 20161115142047
+WWW-Mechanize/1.73 20161129114914
+END_UNKNOWNREFERER
+
+# Unknown referer Browser - Last visit date
+BEGIN_UNKNOWNREFERERBROWSER 1
+WWW-Mechanize/1.73 20161129114914
+END_UNKNOWNREFERERBROWSER
+
+# Origin - Pages - Hits 
+BEGIN_ORIGIN 6
+From0 156 237
+From1 0 0
+From2 68 71
+From3 35 35
+From4 1365 19394
+From5 0 0
+END_ORIGIN
+
+# Search engine referers ID - Pages - Hits
+BEGIN_SEREFERRALS 3
+google 22 25
+rambler 2 2
+yandex 44 44
+END_SEREFERRALS
+
+# External page referers - Pages - Hits
+# The 10 first Pages must be first (order not required for others)
+BEGIN_PAGEREFS 8
+http://m.vk.com/away.php 7 7
+http://pizza-tycoon.com 6 6
+http://yandex.ua/clck/jsredir 6 6
+http://vk.com/away.php 5 5
+http://www.yandex.ua/clck/jsredir 5 5
+http://burger-imperia.com 3 3
+https://www.facebook.com 2 2
+http://yandex.by/clck/jsredir 1 1
+END_PAGEREFS
+
+# Search keyphrases - Number of search
+# The 10 first number of search must be first (order not required for others)
+BEGIN_SEARCHWORDS 5
+j.london-%d0%b6%d0%b5%d0%b3%d1%81%d0%ba%d0%b0%d1%8f+%d0%be%d0%b4%d0%b5%d0%b6%d0%b4%d0%b0 2
+www+.jk+london+.com 1
+j.london+%d0%be%d0%b4%d0%b5%d0%b6%d0%b4%d0%b0 1
+j+london+%d1%8e%d0%b1%d0%ba%d0%b8 1
+%d1%85%d0%b5%d0%bd%d0%b4%d0%bb%d0%b5%d1%80+%d0%bb%d0%be%d0%bd%d0%b4%d0%be%d0%bd+%d0%b6%d0%b5%d0%bd%d1%81%d0%ba%d0%b0%d1%8f+%d0%be%d0%b4%d0%b5%d0%b6%d0%b4%d0%b0 1
+END_SEARCHWORDS
+
+# Search keywords - Number of search
+# The 10 first number of search must be first (order not required for others)
+BEGIN_KEYWORDS 12
+%d0%be%d0%b4%d0%b5%d0%b6%d0%b4%d0%b0 4
+j.london-%d0%b6%d0%b5%d0%b3%d1%81%d0%ba%d0%b0%d1%8f 2
+london 2
+www 1
+%d0%b6%d0%b5%d0%bd%d1%81%d0%ba%d0%b0%d1%8f 1
+.com 1
+j 1
+%d1%8e%d0%b1%d0%ba%d0%b8 1
+.jk 1
+%d0%bb%d0%be%d0%bd%d0%b4%d0%be%d0%bd 1
+%d1%85%d0%b5%d0%bd%d0%b4%d0%bb%d0%b5%d1%80 1
+j.london 1
+END_KEYWORDS
+
+# Errors - Hits - Bandwidth
+BEGIN_ERRORS 2
+206 59 24845997
+404 923 2625856
+END_ERRORS
+
+# URL with 404 errors - Hits - Last URL referer
+BEGIN_SIDER_404 128
+/ 2 -
+/content/bluzka 1 -
+/admin/content/sitetree/ 1 -
+/robots.txt 183 -
+//login.php 2 -
+/wordpress/ 3 -
+/functions.php 2 -
+/profiles/drupalife_store/libraries/superfish/supersubs.js 1 -
+/manager/ 1 -
+/wp-content/plugins/myshe.php 1 -
+/admin.php 6 -
+/profiles/drupalife_store/modules/contrib/ckeditor/css/ckeditor.css 1 -
+/contact 1 -
+/web/wp-login.php 5 -
+/modules/comment/comment.css 1 -
+/css/bootstrap.css.map 5 -
+/news/4-otkrytie-optovogo-internet-magazina-j-london 1 -
+/wp-content/uploads/2016/08/ 1 -
+/profiles/drupalife_store/modules/contrib/colorbox/styles/default/colorbox_style.js 1 -
+/profiles/drupalife_store/libraries/superfish/sfsmallscreen.js 1 -
+/wordpress/wp-login.php 7 -
+/maill.php 1 -
+/wp-content/uploads/2014/ 1 -
+/modules/field/theme/field.css 1 -
+/wp-admin/ 7 http://jk-london.com/wp-login.php
+/profiles/drupalife_store/modules/contrib/views/css/views.css 1 -
+/blogs/wp-login.php 7 -
+/new/wp-login.php 6 -
+/tmp.php 1 -
+/wp-content/uploads/2016/07/ 1 -
+/en/wp-login.php 8 -
+/xmlrpc.php 3 -
+/wp-content/uploads/2016/ 1 -
+/profiles/drupalife_store/libraries/superfish/jquery.hoverIntent.minified.js 1 -
+/profiles/drupalife_store/modules/contrib/colorbox/styles/default/colorbox_style.css 1 -
+/wp-content/uploads/2015/ 1 -
+/modules/ 1 http://jk-london.com/modules/
+/profiles/drupalife_store/modules/contrib/nivo_slider/js/nivo_slider.js 1 -
+/profiles/drupalife_store/libraries/superfish/style/coffee.css 1 -
+/images/google-assist.php 1 -
+/sites/all/modules/scroll_to_top/scroll_to_top.js 1 -
+/profiles/drupalife_store/modules/contrib/jquery_update/replace/jquery/1.7/jquery.min.js 1 -
+/profiles/drupalife_store/libraries/nivo-slider/nivo-slider.css 1 -
+/cms/wp-login.php 6 -
+/wp-content/uploads/2016/10/ 1 -
+/common/js/elfinder_2.0/elfinder.html 1 -
+/modules/tadtools/ckeditor/elFinder/elfinder.html 1 -
+/_core/utils/elfinder/elfinder.html 1 -
+/sites/all/modules/popup/popup.css 1 -
+/administrator/ 6 -
+/blog/wp-login.php 7 -
+/home/wp-login.php 6 -
+/profiles/drupalife_store/libraries/colorbox/jquery.colorbox-min.js 1 -
+/js/script.js 422 http://jk-london.com/
+/sites/default/files/languages/ru_xbmUuR41T-JufBe-auMCEDIZEvWBqvSS8kFikNQA4_s.js 1 -
+/wordpress/wp-content/plugins/cherry-plugin/admin/css/cherry-admin-plugin.css 1 -
+/wp-content/plugins/cherry-plugin/admin/css/cherry-admin-plugin.css 1 -
+/wp-includes/ 1 http://jk-london.com/wp-includes/
+/wp-main.php 1 -
+/wp-login.php 14 -
+/site/wp-login.php 8 -
+/profiles/drupalife_store/themes/drupalife_store/js/script.js 1 -
+/misc/drupal.js 1 -
+/admin/ 1 -
+/sqlibak.php 2 -
+/css/fonts/slick.svg 2 http://jk-london.com/
+/profiles/drupalife_store/libraries/superfish/css/superfish.css 1 -
+/sites/default/files/fontyourface/font.css 1 -
+/modules/user/user.css 1 -
+/wp-content/plugins/wp-cache.php 1 -
+/apple-touch-icon.png 1 -
+/css/nav-icon.png 44 http://jk-london.com/
+/misc/jquery.once.js 1 -
+/modules/system/system.base.css 1 -
+/wp-content/uploads/2016/11/ 1 -
+/profiles/drupalife_store/libraries/nivo-slider/themes/default/default.css 1 -
+/test/wp-login.php 6 -
+/administrator/includes/readmy.php 1 -
+/sites/all/modules/webform/js/webform.js 1 -
+/sites/all/modules/geofield_ymap/geofield_ymap.css 1 -
+/blog/ 4 -
+/profiles/drupalife_store/libraries/superfish/supposition.js 1 -
+/news 1 -
+/wp/ 3 -
+/~daycare/assets/elfinder/elfinder.html 1 -
+/wp-content/uploads/2016/09/ 1 -
+/sites/all/modules/admin_menu/admin_devel/admin_devel.js 1 -
+/sites/default/files/color/drupalife_store-c679ba00/color.css 1 -
+/css/fonts/slick.eot 6 http://jk-london.com/
+/profiles/drupalife_store/themes/drupalife_store/css/styles.css 1 -
+/profiles/drupalife_store/libraries/nivo-slider/jquery.nivo.slider.pack.js 1 -
+/wp/wp-login.php 8 -
+/infos.php 1 -
+/modules/node/node.css 1 -
+/apple-touch-icon-precomposed.png 1 -
+/blog/robots.txt 3 -
+/img/goods/skirts/skirt-2047.jpg 1 -
+/profiles/drupalife_store/libraries/superfish/superfish.js 1 -
+/img/goods/skirts/skirt-2150.jpg 1 -
+/news.php 1 -
+/administrator/index.php 7 -
+/sites/all/modules/popup/popup.js 1 -
+/content/kontakty-0 1 -
+/configurationbak.php 1 -
+/ccbill/ 1 http://jk-london.com/ccbill/
+/sites/all/modules/scroll_to_top/scroll_to_top.css 1 -
+/profiles/drupalife_store/modules/contrib/colorbox/js/colorbox.js 1 -
+/simpla/ 1 -
+/packages/ahmadazimi/laravel-media-manager/elfinder.html 1 -
+/admin 6 -
+/profiles/drupalife_store/modules/contrib/colorbox/js/colorbox_load.js 1 -
+/includes.php 1 -
+/sites/all/modules/webform/css/webform.css 1 -
+/profiles/drupalife_store/modules/contrib/superfish/superfish.js 1 -
+/images/xxx.php 1 -
+/profiles/drupalife_store/libraries/superfish/style/blue.css 1 -
+/sites/all/modules/jcarousel/js/jcarousel.js 1 -
+/wp-content/uploads/ 1 -
+/sites/all/modules/jcarousel/skins/default/jcarousel-default.css 1 -
+/sites/all/modules/jcarousel/js/jquery.jcarousel.min.js 1 -
+/main/wp-login.php 6 -
+/profiles/drupalife_store/modules/contrib/mappy/js/mappy.js 1 -
+/news/wp-login.php 7 -
+/css/fonts/slick.woff 6 http://www.jk-london.com/
+/modules/search/search.css 1 -
+/profiles/drupalife_store/modules/contrib/ctools/css/ctools.css 1 -
+/ahah/popup/block/4ec1264b61cafd86792a284995c71be2 1 -
+/css/fonts/slick.ttf 6 http://www.jk-london.com/
+END_SIDER_404
+
+# Host - Pages - Hits - Bandwidth - Last visit date - [Start date of last visit] - [Last page of last visit]
+# [Start date of last visit] and [Last page of last visit] are saved only if session is not finished
+# The 10 first Hits must be first (order not required for others)
+BEGIN_VISITOR 201
+109.104.178.20 106 1442 157039324 20161125113341
+95.132.247.109 60 861 91952996 20161116145349
+78.27.151.9 57 715 65299475 20161129150533
+178.74.230.69 47 705 79508894 20161130225209
+212.220.206.89 38 428 48544613 20161121121238
+109.206.133.220 31 432 43865851 20161124091438
+193.192.171.10 30 435 49660122 20161122200226
+77.123.28.104 23 293 33140703 20161122200953
+5.141.196.21 23 293 33221189 20161124124003
+141.101.31.4 22 291 31726322 20161125162411
+46.39.55.66 13 150 14869025 20161102223006
+212.26.236.90 10 145 16553331 20161107215618
+186.202.120.146 1 1 91618 20161109203823
+46.160.71.44 10 146 17438059 20161112173258
+193.106.59.55 10 146 16554903 20161107113315
+176.62.123.144 1 1 91747 20161126174824
+83.170.197.42 10 35 1664789 20161107165602
+217.69.133.169 2 4 186509 20161120232210
+81.24.208.87 10 91 6868476 20161109193653
+87.229.196.129 10 85 5932327 20161128160805
+195.211.23.207 1 1 91618 20161115142047
+37.212.118.85 10 79 5153572 20161109204526
+185.48.37.167 10 147 18025549 20161109221015
+193.142.159.131 12 146 16398630 20161118163624
+178.155.5.7 11 156 17736698 20161114125317
+217.118.93.169 13 151 20043569 20161118223404
+178.150.77.146 10 145 16533536 20161119123252
+38.100.21.66 2 11 3569925 20161120075722
+195.238.119.4 20 264 29398569 20161108005457
+46.219.241.246 9 105 13392982 20161105194448
+37.57.177.141 1 1 91618 20161102172431
+95.213.184.35 1 1 91618 20161103181559
+5.79.69.225 10 146 17480967 20161103161915
+46.219.241.205 0 41 5633021 
+109.173.125.248 8 8 733976 20161123183522
+46.211.69.135 9 21 4447950 20161111155132
+46.219.250.168 12 146 18473673 20161105185637
+138.197.206.45 10 139 14630619 20161118060651
+163.172.169.34 1 1 91618 20161103004223
+176.15.253.85 10 26 1460927 20161105154935
+92.242.81.201 1 130 13427174 20161114102601
+82.145.221.111 12 142 14782686 20161111152334
+95.73.174.219 10 142 16164419 20161109160841
+5.18.209.255 1 1 91618 20161110143152
+217.25.213.221 2 19 1911316 20161120154622
+171.25.193.131 1 1 91747 20161125213041
+107.167.110.12 1 2 93190 20161111151110
+176.126.252.12 1 1 91747 20161125101849
+217.77.215.93 10 143 1966833 20161108200946
+92.241.245.126 1 1 91618 20161111032755
+176.56.55.19 10 145 16553460 20161125164239
+37.54.170.5 14 154 13627885 20161114200207
+89.185.10.11 0 2 39407 
+89.23.128.163 0 5 212343 
+109.108.83.18 10 145 16553331 20161102205845
+188.170.200.51 1 1 91747 20161116161729
+91.79.48.65 11 146 17930258 20161115102906
+178.165.68.55 1 1 91747 20161129021243
+35.164.213.182 1 1 91747 20161129114914
+31.13.144.12 0 1 34748 
+91.107.105.12 2 2 91747 20161124163053
+188.162.64.85 11 146 16218821 20161107112444
+161.69.163.20 1 1 91618 20161113042347
+109.195.189.189 1 1 91618 20161115153946
+37.110.109.65 2 2 183236 20161105105809
+217.25.213.240 0 24 3115682 
+141.0.13.214 1 31 5068087 20161111155510
+109.61.168.11 13 148 20600150 20161102162004
+66.102.9.148 6 58 5815526 20161129173917
+213.24.126.49 10 144 14591892 20161121233611
+95.153.222.121 10 141 16097312 20161101025155
+66.102.9.146 2 36 3245611 20161129173917
+148.251.44.219 1 1 91618 20161104133810
+91.200.203.21 12 149 22029461 20161103185145
+217.25.213.244 1 26 2699269 20161120154622
+195.211.212.33 10 143 13119547 20161101111401
+69.58.178.59 2 2 183236 20161115140141
+188.255.32.36 1 1 91618 20161101234957
+37.147.238.129 1 1 91747 20161122024451
+95.79.45.249 7 106 11296045 20161122122238
+66.249.93.155 3 41 3438274 20161104214409
+84.201.18.122 1 1 0 20161114184205
+188.239.71.23 0 3 1734362 
+91.188.39.149 11 146 16644949 20161103121058
+188.163.76.58 1 1 91747 20161129052904
+77.240.170.193 14 149 16678732 20161103125405
+82.145.220.120 1 13 478271 20161111155050
+212.74.202.40 12 147 16656468 20161128082514
+176.195.122.56 1 1 91618 20161115004738
+217.77.212.248 10 145 16553460 20161125105911
+84.51.120.11 15 151 16850965 20161119105406
+46.188.71.171 1 134 13881752 20161130151925
+66.249.93.154 4 52 7321596 20161104214409
+213.87.137.219 10 145 15081117 20161104155333
+5.1.30.139 0 2 1734360 
+217.77.215.211 16 151 16862484 20161125210131
+141.101.4.188 3 4 204157 20161102190927
+47.88.4.162 10 28 1475565 20161114223724
+95.211.205.151 1 1 91747 20161121073707
+35.163.186.138 1 1 91618 20161115202403
+188.165.28.233 2 2 183494 20161125060324
+46.133.108.33 10 144 17702301 20161126094447
+64.79.100.56 2 2 183494 20161121002434
+188.186.212.9 13 148 16828185 20161107192620
+188.32.29.182 1 1 91618 20161101001428
+89.109.9.252 5 40 3398855 20161122122507
+54.80.25.79 1 1 91618 20161102052204
+89.175.99.122 20 270 30928178 20161114140008
+213.87.149.21 3 5 115712 20161107153602
+109.195.210.127 0 1 34748 
+81.1.151.109 10 142 13117597 20161114104358
+188.128.123.6 1 1 91747 20161122045353
+46.39.53.113 20 282 33628658 20161102011603
+5.3.238.127 10 21 1400866 20161105195626
+128.75.245.121 1 134 13881752 20161127114834
+5.164.235.86 1 1 91747 20161116170445
+109.162.45.153 1 1 91618 20161115232915
+95.215.164.83 10 145 16553460 20161122145152
+188.32.188.132 1 1 91747 20161125094108
+46.219.241.173 15 150 20080401 20161111150458
+2.134.156.178 0 1 34218 
+31.173.84.166 10 140 14626666 20161112155029
+95.182.72.17 15 173 15204634 20161116133257
+178.212.225.160 10 145 16553331 20161109155925
+178.150.148.194 10 146 18013118 20161129023019
+37.25.113.167 10 145 16553331 20161110164730
+46.187.42.249 10 71 6465829 20161110221948
+95.73.46.21 11 147 16525125 20161107093714
+91.227.42.237 18 153 16724034 20161127232450
+185.48.37.88 1 1 91618 20161112005536
+46.233.245.199 12 150 16739362 20161125182542
+46.33.255.86 10 146 17173708 20161128133104
+37.78.188.206 14 148 18219475 20161123224141
+212.74.203.54 10 145 16553460 20161117135012
+109.167.193.184 10 145 16553460 20161117172049
+93.171.185.101 11 146 16645207 20161126180038
+95.84.219.17 11 143 16218436 20161101235001
+95.221.209.152 10 30 1494170 20161128063905
+176.49.19.142 21 286 35375877 20161103152333
+93.115.95.216 1 1 91747 20161129131457
+109.126.251.10 11 146 16645207 20161118121253
+178.137.83.166 1 1 91747 20161124090128
+212.92.254.113 11 149 17838243 20161109153514
+82.145.221.62 1 6 1107811 20161111212301
+77.120.239.141 22 163 18422090 20161121103036
+45.32.130.173 1 1 91618 20161104010948
+54.81.72.40 1 1 91747 20161124110058
+213.87.135.131 3 8 528731 20161108102845
+178.74.91.214 1 2 91747 20161130140004
+79.165.163.100 1 134 13881752 20161124040305
+95.220.132.30 10 146 18005561 20161102223611
+5.189.188.111 1 1 91747 20161130030229
+91.226.57.64 1 5 94155 20161123105518
+164.126.216.17 11 145 15172991 20161126204704
+46.211.204.151 12 143 14811861 20161122120340
+134.249.159.113 1 3 106875 20161118214315
+176.195.110.221 10 23 1415607 20161126170630
+54.159.114.239 1 1 91618 20161116093437
+217.118.93.138 1 36 4320691 20161119073538
+193.142.159.208 11 148 19085384 20161109122010
+213.226.141.91 20 268 30688763 20161103214608
+167.114.89.195 1 1 91747 20161129234913
+87.98.152.151 1 1 91747 20161129065621
+217.25.213.227 6 61 5239805 20161120154622
+46.133.25.164 1 12 200847 20161102171216
+95.188.182.243 1 1 91747 20161127150823
+110.164.93.90 1 1 91747 20161125052916
+37.204.157.59 1 1 91618 20161108002332
+93.80.234.253 1 1 91747 20161129002042
+37.204.67.146 10 36 1509146 20161124132013
+94.29.73.122 1 1 91747 20161119130539
+217.25.213.222 1 14 1625820 20161120154622
+79.139.203.207 1 1 91618 20161114010050
+45.32.129.1 1 1 91618 20161112202721
+94.23.75.242 1 1 91747 20161127153203
+46.166.148.156 1 1 91747 20161121123608
+94.178.151.141 10 141 16162847 20161114181850
+5.164.240.228 1 1 91747 20161129151332
+212.74.203.49 10 145 16553331 20161108174757
+188.32.242.40 10 25 1446800 20161103064705
+94.254.131.30 10 140 14626795 20161120194539
+178.90.68.64 1 1 91747 20161121132134
+91.109.19.24 1 1 91747 20161119192909
+213.136.78.176 1 10 229076 20161114214938
+91.218.89.167 12 147 16656210 20161110145413
+85.248.227.165 1 1 91747 20161125024447
+66.249.93.156 3 47 3866796 20161104214409
+5.105.105.242 12 147 16736567 20161107004610
+66.102.9.144 2 46 5565658 20161129173917
+94.25.227.70 0 1 1572 
+84.201.17.157 1 1 91618 20161114192657
+194.11.247.1 10 145 16553331 20161108154423
+188.165.29.82 1 1 91618 20161112005055
+178.137.155.42 21 295 33217336 20161117115136
+37.229.218.88 10 145 16553331 20161106020331
+94.179.198.186 10 145 16553331 20161101074248
+213.22.250.173 1 1 91618 20161112042030
+136.243.95.154 2 2 183365 20161119043604
+194.44.218.150 10 145 16553460 20161122162924
+213.87.148.169 10 145 15081246 20161116195305
+37.229.217.14 10 145 16553460 20161118230257
+END_VISITOR
+
+# Date - Pages - Hits - Bandwidth - Visits
+BEGIN_DAY 30
+20161101 77 1003 118956335 10
+20161102 71 873 117492125 11
+20161103 90 1012 144383893 9
+20161104 33 432 46535970 8
+20161105 55 444 55310741 7
+20161106 10 151 16799892 1
+20161107 90 1057 128056276 9
+20161108 43 559 54418257 7
+20161109 107 1330 160112551 10
+20161110 43 503 63284257 5
+20161111 53 548 80868174 9
+20161112 24 288 34788141 6
+20161113 1 1 91618 1
+20161114 69 999 110759571 13
+20161115 62 728 90652324 11
+20161116 120 1593 172519759 9
+20161117 65 870 106899117 6
+20161118 58 718 91385874 7
+20161119 17 185 23042201 6
+20161120 59 734 85924024 11
+20161121 50 445 48360621 11
+20161122 83 1019 121726370 13
+20161123 28 294 34191997 4
+20161124 60 755 86013291 8
+20161125 76 873 106207749 12
+20161126 53 601 52953870 7
+20161127 31 433 50288744 5
+20161128 43 409 44915508 5
+20161129 39 438 54432918 14
+20161130 14 283 29102351 5
+END_DAY
+
+# Session range - Number of visits
+BEGIN_SESSION 7
+1h+ 2
+5mn-15mn 13
+2mn-5mn 16
+30s-2mn 17
+15mn-30mn 1
+0s-30s 190
+30mn-1h 1
+END_SESSION
+
+# URL - Pages - Bandwidth - Entry - Exit
+# The 10 first Pages must be first (order not required for others)
+BEGIN_SIDER 16
+/ 308 27687459 225 135
+/fonts/SFUIDisplay/SFUIDisplay-Light.otf 142 19221440 2 1
+/fonts/SFUIDisplay/SFUIDisplay-Thin.otf 142 18716320 2 34
+/fonts/SFUIDisplay/SFUIDisplay-Medium.otf 142 19728240 0 5
+/fonts/SFUIDisplay/SFUIDisplay-Bold.otf 141 19805276 1 0
+/fonts/SFUIDisplay/SFUIDisplay-Regular.otf 140 17694912 1 1
+/fonts/SFUIDisplay/SFUIDisplay-Semibold.otf 140 19484496 0 5
+/fonts/SFUIDisplay/SFUIDisplay-Heavy.otf 140 19970256 1 3
+/fonts/philosopher/Philosopher-Bold.ttf 136 28747680 3 5
+/fonts/glyphicons-halflings-regular.woff2 118 2109276 0 37
+/application1.php 51 574321 4 9
+/index.php/component/users/ 1 91747 1 0
+/fonts/glyphicons-halflings-regular.woff 13 304512 0 2
+/index.php 2 183494 0 1
+/fonts/glyphicons-halflings-regular.eot 6 120762 0 0
+/videos/_0134_3_wmv.webm 2 6199868 0 2
+END_SIDER

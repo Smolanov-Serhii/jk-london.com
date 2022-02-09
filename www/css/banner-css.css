@@ -1,0 +1,152 @@
+/* Welcome to Compass.
+ * In this file you should write your main styles. (or centralize your imports)
+ * Import this file using the following HTML or equivalent:
+ * <link href="/stylesheets/screen.css" media="screen, projection" rel="stylesheet" type="text/css" /> */
+html, body, div, span, applet, object, iframe,
+h1, h2, h3, h4, h5, h6, p, blockquote, pre,
+a, abbr, acronym, address, big, cite, code,
+del, dfn, em, img, ins, kbd, q, s, samp,
+small, strike, strong, sub, sup, tt, var,
+b, u, i, center,
+dl, dt, dd, ol, ul, li,
+fieldset, form, label, legend,
+table, caption, tbody, tfoot, thead, tr, th, td,
+article, aside, canvas, details, embed,
+figure, figcaption, footer, header, hgroup,
+menu, nav, output, ruby, section, summary,
+time, mark, audio, video {
+  margin: 0;
+  padding: 0;
+  border: 0;
+  font: inherit;
+  font-size: 100%;
+  vertical-align: baseline;
+}
+
+html {
+  line-height: 1;
+}
+
+ol, ul {
+  list-style: none;
+}
+
+table {
+  border-collapse: collapse;
+  border-spacing: 0;
+}
+
+caption, th, td {
+  text-align: left;
+  font-weight: normal;
+  vertical-align: middle;
+}
+
+q, blockquote {
+  quotes: none;
+}
+q:before, q:after, blockquote:before, blockquote:after {
+  content: "";
+  content: none;
+}
+
+a img {
+  border: none;
+}
+
+article, aside, details, figcaption, figure, footer, header, hgroup, main, menu, nav, section, summary {
+  display: block;
+}
+
+.banner-wr {
+  background: rgba(0, 0, 0, 0.8);
+  width: 100%;
+  height: 100%;
+  position: fixed;
+  top: 0;
+  left: 0;
+  overflow-y: scroll;
+  display: none;
+  z-index: 99;
+}
+
+.banner {
+  width: 590px;
+  height: 440px;
+  background: url(../img/banner-b.png) center center no-repeat;
+  margin: 100px auto 0;
+  position: relative;
+}
+.banner .close-btn {
+  width: 32px;
+  height: 32px;
+  background: url(../img/close-btn.png) center center no-repeat;
+  position: absolute;
+  top: -30px;
+  right: -30px;
+  cursor: pointer;
+}
+.banner .im1 {
+  width: 400px;
+  height: 400px;
+  background: url(../img/banner-im1.png) center center no-repeat;
+  position: absolute;
+  bottom: 0;
+  right: -133px;
+}
+.banner .im2 {
+  width: 200px;
+  height: 140px;
+  background: url(../img/card-small.png) center center no-repeat;
+  position: absolute;
+  top: 200px;
+  left: 160px;
+  z-index: 4;
+}
+.banner .im3 {
+  width: 360px;
+  height: 275px;
+  background: url(../img/banner-im3.png) center center no-repeat;
+  position: absolute;
+  bottom: -70px;
+  left: -145px;
+}
+.banner p {
+  padding: 45px;
+  font-size: 20px;
+  line-height: 26px;
+  font-family: "PH-B", sans-serif;
+  text-align: left;
+}
+.banner p .big-text {
+  font-size: 30px;
+}
+.banner p span {
+  font-weight: bold;
+}
+.banner p .red {
+  color: #c63655;
+}
+
+
+@media screen and (min-width: 320px) and (max-width: 850px) {
+  .banner-wr .banner{
+    width: 300px;
+  }
+  .banner-wr .banner .im1{
+    display: none;
+  }
+  .banner-wr .banner .im2{
+    display: none;
+  }
+  .banner-wr .banner .im3{
+    width: 300px;
+    height: 200px;
+    background-size: 100% 100%;
+    left: 0;
+    bottom: 0;
+  }
+  .banner-wr .banner p{
+    padding: 20px;
+  }
+}

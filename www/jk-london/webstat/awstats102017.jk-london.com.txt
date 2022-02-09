@@ -1,0 +1,601 @@
+AWSTATS DATA FILE 7.0 (build 1.971)
+# If you remove this file, all statistics for date 201710 will be lost/reset.
+# Last config file used to build this data file was /etc/awstats/awstats.jk-london.com.conf.
+
+# Position (offset in bytes) in this file for beginning of each section for
+# direct I/O access. If you made changes somewhere in this file, you should
+# also remove completely the MAP section (AWStats will rewrite it at next
+# update).
+BEGIN_MAP 27
+POS_GENERAL 1993                
+POS_TIME 2658                
+POS_VISITOR 11158               
+POS_DAY 17970               
+POS_DOMAIN 3531                
+POS_LOGIN 3765                
+POS_ROBOT 3920                
+POS_WORMS 4384                
+POS_EMAILSENDER 4515                
+POS_EMAILRECEIVER 4658                
+POS_SESSION 18207               
+POS_SIDER 18409               
+POS_FILETYPES 4793                
+POS_DOWNLOADS 5113                
+POS_OS 5201                
+POS_BROWSER 5450                
+POS_SCREENSIZE 6626                
+POS_UNKNOWNREFERER 6700                
+POS_UNKNOWNREFERERBROWSER 7147                
+POS_ORIGIN 7274                
+POS_SEREFERRALS 7419                
+POS_PAGEREFS 7589                
+POS_SEARCHWORDS 9418                
+POS_KEYWORDS 9570                
+POS_MISC 2322                
+POS_ERRORS 9629                
+POS_CLUSTER 3621                
+POS_SIDER_404 9735                
+END_MAP
+
+# LastLine    = Date of last record processed - Last record line number in last log - Last record offset in last log - Last record signature value
+# FirstTime   = Date of first visit for history file
+# LastTime    = Date of last visit for history file
+# LastUpdate  = Date of last update - Nb of parsed records - Nb of parsed old records - Nb of parsed new records - Nb of parsed corrupted - Nb of parsed dropped
+# TotalVisits = Number of visits
+# TotalUnique = Number of unique visitors
+# MonthHostsKnown   = Number of hosts known
+# MonthHostsUnKnown = Number of hosts unknown
+BEGIN_GENERAL 8
+LastLine 20171006142646 571 148601 8135444917649
+FirstTime 0
+LastTime 20171006142646
+LastUpdate 20171006150207 6 0 6 0 0
+TotalVisits 218                 
+TotalUnique 150                 
+MonthHostsKnown 0                   
+MonthHostsUnknown 159                 
+END_GENERAL
+
+# Misc ID - Pages - Hits - Bandwidth
+BEGIN_MISC 10
+QuickTimeSupport 0 0 0
+JavaEnabled 0 0 0
+JavascriptDisabled 0 0 0
+PDFSupport 0 0 0
+WindowsMediaPlayerSupport 0 0 0
+AddToFavourites 0 0 0
+RealPlayerSupport 0 0 0
+TotalMisc 0 0 0
+DirectorSupport 0 0 0
+FlashSupport 0 0 0
+END_MISC
+
+# Hour - Pages - Hits - Bandwidth - Not viewed Pages - Not viewed Hits - Not viewed Bandwidth
+BEGIN_TIME 24
+0 20 170 16531652 3 7 844297
+1 15 172 12829818 4 13 828939
+2 31 33 7041139 2 5 281093
+3 32 334 33138738 5 23 1072420
+4 8 12 1944692 4 27 1802100
+5 20 20 4927324 2 18 469157
+6 6 162 10881132 7 14 1916027
+7 40 240 22124485 12 45 2499557
+8 42 502 37250535 9 23 5032149
+9 39 503 33839876 12 103 11591400
+10 71 840 60356057 2 16 294137
+11 67 886 61542003 2 11 583905
+12 50 667 52884539 5 23 2660927
+13 54 663 48263741 11 20 1125052
+14 78 1001 93838665 22 50 2027866
+15 36 499 36040973 6 9 1101428
+16 52 668 49211437 3 9 289697
+17 45 518 42080058 5 22 1151678
+18 56 458 29806884 12 33 1490808
+19 24 174 15808980 9 24 2146079
+20 57 691 54392205 1 15 586714
+21 47 508 40952755 6 30 2010359
+22 42 380 31587555 1 10 289697
+23 38 499 39556192 14 42 2351328
+END_TIME
+
+# Domain - Pages - Hits - Bandwidth
+# The 10 first Pages must be first (order not required for others)
+BEGIN_DOMAIN 1
+ip 970 10600 734169482
+END_DOMAIN
+
+# Cluster ID - Pages - Hits - Bandwidth
+BEGIN_CLUSTER 0
+END_CLUSTER
+
+# Login - Pages - Hits - Bandwidth - Last visit
+# The 10 first Pages must be first (order not required for others)
+BEGIN_LOGIN 0
+END_LOGIN
+
+# Robot ID - Hits - Bandwidth - Last visit - Hits on robots.txt
+# The 10 first Hits must be first (order not required for others)
+BEGIN_ROBOT 9
+yandex 252 13277973 20171006130155 0
+googlebot 92 6854180 20171006095241 0
+no_user_agent 33 8992137 20171006091350 0
+favicon 14 1918427 20171006133040 0
+mail\.ru 5 627489 20171004150339 0
+robot 4 536520 20171005132606 0
+msiecrawler 2 544978 20171001191929 0
+discovery 1 272489 20171002083620 0
+baiduspider 1 272489 20171005064412 0
+END_ROBOT
+
+# Worm ID - Hits - Bandwidth - Last visit
+# The 5 first Hits must be first (order not required for others)
+BEGIN_WORMS 0
+END_WORMS
+
+# EMail - Hits - Bandwidth - Last visit
+# The 20 first Hits must be first (order not required for others)
+BEGIN_EMAILSENDER 0
+END_EMAILSENDER
+
+# EMail - Hits - Bandwidth - Last visit
+# The 20 first hits must be first (order not required for others)
+BEGIN_EMAILRECEIVER 0
+END_EMAILRECEIVER
+
+# Files type - Hits - Bandwidth - Bandwidth without compression - Bandwidth after compression
+BEGIN_FILETYPES 13
+css 670 3063760 0 0
+eot 6 120762 0 0
+png 2300 143309268 0 0
+ttf 64 13528320 0 0
+woff2 49 883372 0 0
+woff 3 70272 0 0
+otf 449 62122064 0 0
+php 59 664399 0 0
+mp4 13 112967465 0 0
+html 340 92373771 0 0
+js 658 9058599 0 0
+jpg 5986 296007301 0 0
+gif 3 129 0 0
+END_FILETYPES
+
+# Downloads - Hits - Bandwidth
+BEGIN_DOWNLOADS 1
+/videos/_0134_3_wmv.mp4 7 100 112967465
+END_DOWNLOADS
+
+# OS ID - Hits
+BEGIN_OS 18
+linuxandroid 1646
+winlong 7
+winxp 1165
+win2000 13
+winvista 671
+linuxfedora 1
+winunknown 4
+wince 2
+win2003 25
+linuxdebian 1
+winnt 1627
+linuxubuntu 2
+win98 3
+win7 2872
+macosx 2643
+bsdfreebsd 1
+beos 1
+Unknown 16
+END_OS
+
+# Browser ID - Hits
+BEGIN_BROWSER 66
+msie6.0 93
+firefox1.5.0.13 1
+chrome50.0.2661.89 1
+webcapture 2
+safari11.0 549
+bonecho 1
+safari10.1 2
+chrome59.0.3071.86 2
+android 1
+chrome58.0.3029.81 3
+firefox52.0 500
+epiphany 1
+msie4.01 3
+chrome39.0.2171.95 166
+firefox54.0 1
+chrome63.0.3223.8 168
+opera9.00 3
+chrome56.0.2924.87 35
+curl 1
+msie3.02 2
+chrome57.0.2987.98 10
+chrome58.0.3029.110 11
+firefox2.0.0.5 1
+msie8.0 121
+netscape4.76 6
+chrome61.0.3163.100 2410
+firefox43.0 3
+netscape0.91 2
+msie7.0 1
+chrome34.0.1847.116 1
+chrome60.0.3112.101 166
+chrome50.0.2661.102 1
+chrome55.0.2883.75 3
+chrome58.0.3029.96 6
+flock 1
+msie9.0 7
+chrome49.0.2623.112 332
+Unknown 10
+chrome60.0.3112.116 160
+chrome30.0.0.0 166
+chrome57.0.2987.137 168
+firefox50.0 21
+firefox53.0 6
+iceweasel 1
+chrome44.0.2403.128 2
+firefox55.0 325
+safari10.0 1262
+chrome59.0.3071.92 163
+opera9.01 1
+msie5.5 2
+chrome51.0.2704.79 167
+firefox56.0 76
+chrome60.0.3112.113 1506
+chrome38.0.2125.102 163
+chrome45.0.2454.94 168
+chrome61.0.3163.79 1
+safari9.0 324
+chrome45.0.2454.101 2
+mozilla 8
+chrome57.0.2987.133 25
+seamonkey 2
+msie10.0 198
+firefox51.0 167
+chrome60.0.3112.90 166
+chrome61.0.3163.98 822
+firefox3.1 1
+END_BROWSER
+
+# Screen size - Hits
+BEGIN_SCREENSIZE 0
+END_SCREENSIZE
+
+# Unknown referer OS - Last visit date
+BEGIN_UNKNOWNREFERER 6
+Mozilla/5.0_(compatible;_YandexImages/3.0;__http://yandex.com/bots) 20171005143801
+ 20171006141152
+Mozilla/5.0_(compatible;_Dataprovider.com;) 20171002025853
+Magic_Browser 20171006091727
+PycURL/7.43.0_libcurl/7.38.0_OpenSSL/1.0.1_zlib/1.2.3.4_c-ares/1.7.5_libidn/1.23_libssh2/1.2.8_librtmp/2.3 20171003021532
+Mozilla/5.0_(compatible;_ips-agent) 20171006142524
+END_UNKNOWNREFERER
+
+# Unknown referer Browser - Last visit date
+BEGIN_UNKNOWNREFERERBROWSER 2
+ 20171006141152
+Magic_Browser 20171006091727
+END_UNKNOWNREFERERBROWSER
+
+# Origin - Pages - Hits 
+BEGIN_ORIGIN 6
+From0 77 111
+From1 0 0
+From2 45 47
+From3 129 129
+From4 719 10413
+From5 0 0
+END_ORIGIN
+
+# Search engine referers ID - Pages - Hits
+BEGIN_SEREFERRALS 2
+google 13 15
+yandex 32 32
+END_SEREFERRALS
+
+# External page referers - Pages - Hits
+# The 10 first Pages must be first (order not required for others)
+BEGIN_PAGEREFS 55
+http://krassh.ru 6 6
+https://creditmoney.com.ua 5 5
+https://bioscorp.ru 5 5
+http://taraz.xkaz.org 5 5
+http://copro.pw 4 4
+https://mojpregled.com 4 4
+http://kirov.zrus.org 4 4
+http://multgo.ru 4 4
+https://pl-top.pl 3 3
+https://venerologiya.com 3 3
+http://popki-foto-zhenshhin.sexgalleries.top 1 1
+https://xn----dtbndd4ae7eub.top 2 2
+http://milf.erolove.in 1 1
+http://rockprogblog.com 2 2
+https://essay-writing.work 1 1
+http://master.1cbit.net/xrumer.php 1 1
+https://kursy-ege.ru 2 2
+https://sevendays.com.ua 2 2
+http://life-instyle.com 3 3
+http://new-amateur-galleries.blognet.pw 1 1
+http://proxyelite.biz 2 2
+https://minharevisao.com 3 3
+http://ivanovo.zrus.org 3 3
+https://via-energy-order.com 3 3
+http://xdoza.com 3 3
+http://sudexpert66.ru 2 2
+http://lawyers.cafe 3 3
+https://stillmiracle.com 3 3
+http://lawyersinfo.org 3 3
+http://missis.top 2 2
+https://undergroundcityphoto.com 2 2
+http://shymkent.xkaz.org 1 1
+http://03p.info 2 2
+https://kiskinhouse.com 3 3
+http://nude-photo-board.sexblog.top 1 1
+http://www.alt-servis.ru 1 1
+https://xn--80abgj3a5acid6ghs.top 2 2
+https://buyclomidonlaine.com 2 2
+https://ww2awards.info 2 2
+http://femdom.adultnet.in 1 1
+https://23kw.ru 2 2
+https://ikritikimou.gr 1 1
+http://naked-selfies.pornpost.in 1 1
+http://arablesbian.xblog.in 1 1
+https://xn----7sbbahaq9bb5afgiqfliv4m.xn--p1ai 3 3
+http://life-instyle.com/eda.html 2 2
+http://bbwdating.erolove.in 1 1
+http://futanari.blogporn.in 1 1
+https://landmania.ru 2 2
+http://komp-pomosch.ru 3 3
+http://www.postavshhiki.ru/katalog-postavshchikov/95-zhenskaya-odezhda/10381-j-london 2 2
+http://nextrent-crimea.ru 1 1
+https://educontest.net 2 2
+http://weburok.com 2 2
+https://creditmoney.com.ua 2 2
+END_PAGEREFS
+
+# Search keyphrases - Number of search
+# The 10 first number of search must be first (order not required for others)
+BEGIN_SEARCHWORDS 0
+END_SEARCHWORDS
+
+# Search keywords - Number of search
+# The 10 first number of search must be first (order not required for others)
+BEGIN_KEYWORDS 0
+END_KEYWORDS
+
+# Errors - Hits - Bandwidth
+BEGIN_ERRORS 2
+206 13 10682648
+404 163 467484
+END_ERRORS
+
+# URL with 404 errors - Hits - Last URL referer
+BEGIN_SIDER_404 25
+/blog/wp-includes/wlwmanifest.xml 3 -
+/ 7 http://forum.jk-london.com/
+/sitemap.xml 1 -
+/robots.txt 78 -
+/editors/tinymce/jscripts/tiny_mce/plugins/tinybrowser/upload.php 1 -
+/administrator/components/com_joomlaupdate/restore.php 1 -
+/css/nav-icon.png 38 http://www.jk-london.com/css/menu.css
+/wp/wp-includes/wlwmanifest.xml 3 -
+/tiny_mce/plugins/tinybrowser/upload.php 1 -
+/%20%20%20%20%20%20%20%D0%9C%D0%BE%D1%81%D0%BA%D0%B2%D0%B0%20%20%208-977-882-77-85 1 -
+/site/wp-includes/wlwmanifest.xml 3 -
+/wordpress/wp-includes/wlwmanifest.xml 3 -
+/uploadify/uploadify.php 1 http://jk-london.com/wp-admin/
+/wp-includes/wlwmanifest.xml 3 -
+/%20%20%20%20%20%20%20%D0%9C%D0%BE%D1%81%D0%BA%D0%B2%D0%B0%20%20%208-977-130-27-74 2 -
+/thanks.php 1 -
+/js/script.js 2 http://www.jk-london.com/
+/cms/wp-includes/wlwmanifest.xml 3 -
+/xmlrpc.php 3 -
+/css/fonts/slick.eot 1 http://www.jk-london.com/
+/wp-login.php 1 -
+/img/goods/skirts/skirt-20143.JPG 1 http://www.jk-london.com/
+/css/fonts/slick.woff 2 http://jk-london.com/
+/img/goods/skirts/skirts-20143.jpg 1 http://www.jk-london.com/
+/css/fonts/slick.ttf 2 http://jk-london.com/
+END_SIDER_404
+
+# Host - Pages - Hits - Bandwidth - Last visit date - [Start date of last visit] - [Last page of last visit]
+# [Start date of last visit] and [Last page of last visit] are saved only if session is not finished
+# The 10 first Hits must be first (order not required for others)
+BEGIN_VISITOR 159
+37.115.191.27 31 31 8447159 20171006142646 20171006142645 /
+5.17.168.114 30 495 26269530 20171005091047
+37.115.189.113 25 25 6812225 20171006074029
+188.163.74.19 24 24 6539736 20171005181642
+46.118.154.110 20 20 5449780 20171005114156
+46.160.238.247 20 281 16691268 20171005143251
+46.33.249.199 20 330 18983664 20171004152300
+109.252.14.126 16 178 14907629 20171006070518
+78.186.51.119 16 174 12578903 20171002122427
+109.252.72.122 14 174 13281187 20171004165827
+37.208.120.62 0 1 34748 
+93.85.142.115 1 1 272489 20171001141207
+62.122.90.19 4 4 567500 20171006133734 20171006133733 /application1.php
+194.28.51.189 1 2 433837 20171001021110
+35.162.70.167 2 2 544978 20171005170557
+89.169.23.164 9 163 10036367 20171006114306
+109.63.207.254 10 30 1656782 20171002072826
+95.79.5.255 10 166 10228726 20171005232254
+185.79.102.28 0 2 2703616 
+146.185.223.227 12 12 2224956 20171005105703
+95.24.112.132 10 30 1656782 20171001203911
+46.28.93.163 2 2 283750 20171005005106
+80.83.234.237 11 163 8480537 20171004035014
+46.242.79.96 1 1 272489 20171006071509
+31.130.7.23 4 4 567500 20171003105512
+77.233.208.238 1 2 272489 20171005134537
+31.28.209.163 1 1 272489 20171003053640
+176.59.40.161 1 1 272489 20171004110409
+213.87.162.65 10 163 11137232 20171003005854
+178.45.25.90 1 1 272489 20171005134214
+78.29.99.182 3 3 556239 20171001185932
+66.102.9.46 4 56 2491612 20171003185317
+107.152.255.88 1 1 272489 20171003090902
+85.15.94.184 12 168 10512476 20171005014831
+46.148.180.7 1 1 272489 20171006033106
+5.228.146.188 10 168 12192494 20171004143908
+163.172.4.153 1 1 272489 20171005231655
+109.252.81.163 10 162 9684088 20171005113731
+37.214.74.56 0 2 27659 
+178.165.72.130 11 166 10499643 20171002085737
+109.63.244.168 10 30 1656782 20171003185026
+95.27.243.37 1 1 272489 20171003021532
+62.109.16.156 10 162 9680262 20171003104143
+185.8.107.162 1 1 272489 20171005124325
+184.75.209.235 1 1 272489 20171001192130
+95.188.141.78 1 1 272489 20171005200659
+109.63.206.207 1 79 4691572 20171001234824
+197.231.221.211 2 2 283750 20171005020805
+81.162.73.55 13 169 10784965 20171004211246
+2.76.85.28 11 165 11423399 20171001202725
+87.228.25.115 3 3 556239 20171004192242
+91.193.205.221 0 1 1572 
+185.104.187.61 1 1 272489 20171003084331
+83.220.236.251 10 162 9684088 20171002164613
+213.87.137.91 9 162 11101030 20171005143032
+93.188.39.147 1 1 272489 20171002045840
+178.137.214.241 6 6 851250 20171005124446
+188.234.116.84 2 2 283750 20171003140148
+163.172.102.118 4 4 1089956 20171006115152
+93.157.175.171 10 166 10228726 20171002172709
+5.59.53.130 2 2 283750 20171006120445
+93.183.194.110 10 166 10228726 20171002223805
+188.163.18.65 2 2 283750 20171004102700
+217.66.152.132 0 1 77197 
+31.43.2.190 10 165 10227154 20171004201008
+178.62.30.102 2 2 283750 20171004180154
+146.185.177.103 1 1 11261 20171002215920
+66.102.9.148 3 51 2363529 20171001093149
+181.215.50.40 1 1 272489 20171003030858
+5.166.209.43 2 2 283750 20171006105022
+46.161.9.55 5 5 1101217 20171006112738
+91.205.209.183 10 166 10228726 20171005200907
+66.102.9.146 2 51 3340542 20171001093149
+213.232.195.195 12 168 10773704 20171003153027
+69.58.178.59 1 1 272489 20171006142524 20171006142524 /
+109.252.85.94 10 163 10612444 20171003143558
+178.159.37.56 2 2 283750 20171005045711
+184.75.243.197 1 1 272489 20171004033017
+89.251.158.172 9 85 4392485 20171001181551
+37.201.216.152 1 1 272489 20171003104848
+80.67.172.162 1 1 11261 20171001133009
+77.50.54.75 0 14 2240519 
+94.230.132.105 12 168 10773704 20171006082942
+2.94.193.105 3 3 556239 20171001114436
+178.137.161.32 4 4 1089956 20171006055055
+62.122.95.52 4 4 567500 20171005162340
+95.220.76.126 10 30 1656782 20171003221331
+176.77.39.104 12 168 10512476 20171004102031
+176.105.104.102 3 3 556239 20171005103748
+213.87.134.110 10 163 9680264 20171004104146
+109.63.209.8 1 79 5099604 20171001063734
+52.41.211.72 3 3 817467 20171006091727
+141.101.234.250 13 171 12144024 20171006135815 20171006135751 /fonts/glyphicons-halflings-regular.woff2
+185.72.244.24 1 1 272489 20171003124404
+178.140.117.125 1 157 9518687 20171003231230
+195.211.63.146 10 165 10055967 20171005153157
+83.220.238.208 10 163 11085976 20171002234711
+80.83.239.24 0 4 548464 
+94.242.206.142 2 2 283750 20171004224010
+89.178.6.166 1 157 9518687 20171002121644
+46.242.91.219 10 30 1656782 20171005070116
+163.172.102.10 5 5 1362445 20171004042809
+77.52.183.142 10 163 9745799 20171005224925
+163.172.101.152 2 2 544978 20171001165934
+170.250.140.52 2 2 283750 20171001164639
+178.93.139.48 0 4 6288 
+176.10.104.243 1 1 11261 20171003124418
+173.254.216.66 2 2 283750 20171002153636
+107.167.109.166 10 165 8756510 20171001185639
+213.138.193.253 9 154 8795792 20171002130829
+176.193.119.182 1 70 1857918 20171005114911
+66.102.9.42 4 56 2298197 20171003185308
+37.220.35.202 1 1 272489 20171001132936
+80.83.239.105 12 171 15348797 20171005035543
+95.27.191.40 11 168 11316915 20171001214819
+83.220.239.77 2 48 8018969 20171005143349
+46.161.9.23 9 9 1668717 20171002025002
+95.83.36.93 2 2 283750 20171002081156
+178.137.177.108 12 12 3269868 20171006074949
+201.140.30.40 2 2 283750 20171006050837
+37.145.107.222 10 163 10622760 20171003192758
+217.77.215.65 10 169 13174110 20171003105634
+66.102.9.44 4 51 3963215 20171003185549
+193.142.159.212 0 1 1472216 
+176.103.108.39 10 166 10228726 20171001163132
+82.151.121.74 10 167 10650970 20171006135418 20171006135359 /fonts/glyphicons-halflings-regular.woff2
+142.4.218.156 3 3 817467 20171002025858
+178.76.243.0 1 1 272489 20171003195851
+185.103.108.40 12 168 10226160 20171002161938
+185.163.1.11 3 3 556239 20171002072159
+91.218.195.32 10 166 10228726 20171005133215
+62.210.111.21 1 1 272489 20171001170318
+185.13.35.194 11 175 13165132 20171002143432
+201.18.18.173 6 6 1634934 20171003184233
+176.59.55.175 11 167 10239987 20171005153228
+163.172.212.115 2 2 283750 20171002211414
+81.163.138.43 1 1 272489 20171002205415
+46.166.138.183 2 2 283750 20171005184531
+46.119.227.197 10 166 10228726 20171001213804
+37.229.205.226 2 2 283750 20171002191510
+91.210.228.45 10 167 10789058 20171003110224
+46.36.6.219 12 174 13311233 20171005171957
+52.34.24.33 1 1 272489 20171002190425
+194.186.107.38 10 163 11077364 20171003124405
+195.184.208.6 2 2 283750 20171002142133
+188.162.228.103 10 166 10228726 20171003113903
+176.215.71.141 1 1 272489 20171001203020
+151.249.164.95 2 2 283750 20171001135406
+94.51.251.115 2 2 283750 20171006082744
+5.228.92.220 10 145 8570822 20171002115429
+95.83.15.93 2 2 283750 20171005042319
+37.52.99.205 10 167 11706338 20171002172759
+51.15.72.53 1 1 272489 20171002215916
+66.102.9.144 4 58 2485947 20171001093149
+77.34.43.82 2 2 283750 20171005110916
+192.42.116.16 1 1 11261 20171002072201
+146.185.223.33 9 9 1668717 20171006123532
+69.88.134.93 2 2 283750 20171003192208
+213.87.131.98 9 162 11112214 20171003084524
+END_VISITOR
+
+# Date - Pages - Hits - Bandwidth - Visits
+BEGIN_DAY 6
+20171001 123 1301 95252055 39
+20171002 211 2362 182561757 41
+20171003 210 2551 193720700 43
+20171004 118 1199 94257305 25
+20171005 238 2649 222923023 47
+20171006 70 538 48116595 23
+END_DAY
+
+# Session range - Number of visits
+BEGIN_SESSION 6
+5mn-15mn 6
+30s-2mn 13
+2mn-5mn 8
+15mn-30mn 2
+0s-30s 183
+30mn-1h 1
+END_SESSION
+
+# URL - Pages - Bandwidth - Entry - Exit
+# The 10 first Pages must be first (order not required for others)
+BEGIN_SIDER 13
+/ 340 92373771 209 125
+/fonts/SFUIDisplay/SFUIDisplay-Light.otf 65 8924240 1 1
+/fonts/SFUIDisplay/SFUIDisplay-Bold.otf 64 9118976 1 0
+/fonts/SFUIDisplay/SFUIDisplay-Regular.otf 64 8206336 1 0
+/fonts/SFUIDisplay/SFUIDisplay-Semibold.otf 64 9036288 0 2
+/fonts/SFUIDisplay/SFUIDisplay-Thin.otf 64 8556032 0 4
+/fonts/SFUIDisplay/SFUIDisplay-Heavy.otf 64 9261568 1 0
+/fonts/philosopher/Philosopher-Bold.ttf 64 13528320 0 1
+/fonts/SFUIDisplay/SFUIDisplay-Medium.otf 64 9018624 0 1
+/application1.php 59 664399 5 36
+/fonts/glyphicons-halflings-regular.woff 3 70272 0 3
+/fonts/glyphicons-halflings-regular.eot 6 120762 0 6
+/fonts/glyphicons-halflings-regular.woff2 49 883372 0 34
+END_SIDER
