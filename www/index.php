@@ -137,7 +137,7 @@
 						<div class="take-call">
 						<span>+7 495 134 24 82</span>
 						<span>+7 968 357 27 57</span>
-							<span>+38095 499 06 80</span>
+							<span>+380 63 952 59 39</span>
 							<button data-toggle="modal" data-target="#modal-1-1" class="btn"><div onClick="yaCounter39490315.reachGoal('zvonok'); ga('zvonok', 'zakaz'); return true;" style="width: 100%; height: 100%; line-height: 36px;">заказать звонок</div></button>
 						</div>
 					</div>
@@ -1495,8 +1495,8 @@
 					<div class="col-md-4 col-sm-4 col-xs-12 office">
 						<ul class="office-list">
 						<h2>Представительства:</h2>
-						<li>Россия. г.Москва, ТК «Садовод» МКАД 14км., крытый ТК, 2 эт., – 2Д-13</li>
-						<li>Украина. г.Николаев Переулок Транспортный 9</li>
+						<li>Россия, г.Москва, МКАД 14км, ТК «Садовод», корпус А, 2 этаж - павильон 2Д-13</li>
+						<li>Украина. г.Николаев</li><br>
 						<li>Польша. Lodz al.Pilsudskiego 135/1</li>
 						</ul>
 					</div>
@@ -1506,8 +1506,8 @@
 					<div class="col-md-4 col-sm-4 col-xs-12 contact">
 						<p>+7 495 134 24 82</p>
 						<p>+7 968 357 27 57</p>
-						<p>+38 095 499 06 80</p>
-						<p>j.London.ua@gmail.com</p>
+						<p>+380 63 952 59 39</p>
+						<p>j.London.pl@gmail.com</p>
 						<p>Skype: j.londonfw</p>
 						<button data-toggle="modal" onClick="yaCounter39490315.reachGoal('zvonok_futer'); ga('pozvonit', 'futer'); return true;" data-target="#modal-1-5" >Заказать звонок</button>
 						<ul class="text-right lang-row">
