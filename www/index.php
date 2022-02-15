@@ -252,7 +252,7 @@
 								<img src="img/goods/dresses/679.jpeg" height="360" width="265" alt="">
 							</div>
 							<div class="info">
-								<h2>Платье J. London</h2>
+								<h2>J. London</h2>
 								<!-- <div class="row">
 									<p class="old-price">17$</p>
 									<p class="price">12$</p>
@@ -260,12 +260,12 @@
 								<button class="btn tmpl-btn"><div onClick="yaCounter39490315.reachGoal('podrobnee'); ga('tovar', 'posmotret'); return true;" style="width: 100%; height: 100%; line-height: 47px">Посмотреть</div></button>
 							</div>
 						</li>
-						<li class="week-price" data-toggle="modal" data-target="#modal-684">
+						<li class="week-price" data-toggle="modal" data-target="#modal-1">
 							<div class="im">
 								<img src="img/goods/dresses/684.jpeg" height="360" width="265" alt="">
 							</div>
 							<div class="info">
-								<h2>Платье J. London</h2>
+								<h2>J. London</h2>
 								<!-- <div class="row">
 									<p class="old-price">17$</p>
 									<p class="price">12$</p>
@@ -273,12 +273,12 @@
 								<button class="btn tmpl-btn"><div onClick="yaCounter39490315.reachGoal('podrobnee'); ga('tovar', 'posmotret'); return true;" style="width: 100%; height: 100%; line-height: 47px">Посмотреть</div></button>
 							</div>
 						</li>
-						<li class="week-price" data-toggle="modal" data-target="#modal-698">
+						<li class="week-price" data-toggle="modal" data-target="#modal-1">
 							<div class="im">
 								<img src="img/goods/dresses/698.jpeg" height="360" width="265" alt="">
 							</div>
 							<div class="info">
-								<h2>Платье J. London</h2>
+                                <h2>J. London</h2>
 								<!-- <div class="row">
 									<p class="old-price">17$</p>
 									<p class="price">12$</p>
@@ -286,12 +286,12 @@
 								<button class="btn tmpl-btn"><div onClick="yaCounter39490315.reachGoal('podrobnee'); ga('tovar', 'posmotret'); return true;" style="width: 100%; height: 100%; line-height: 47px">Посмотреть</div></button>
 							</div>
 						</li>
-						<li class="week-price" data-toggle="modal" data-target="#modal-6539">
+						<li class="week-price" data-toggle="modal" data-target="#modal-1">
 							<div class="im">
 								<img src="img/goods/dresses/6539.jpeg" height="360" width="265" alt="">
 							</div>
 							<div class="info">
-								<h2>Платье J. London</h2>
+                                <h2>J. London</h2>
 								<!-- <div class="row">
 									<p class="old-price">17$</p>
 									<p class="price">12$</p>
@@ -299,12 +299,12 @@
 								<button class="btn tmpl-btn"><div onClick="yaCounter39490315.reachGoal('podrobnee'); ga('tovar', 'posmotret'); return true;" style="width: 100%; height: 100%; line-height: 47px">Посмотреть</div></button>
 							</div>
 						</li>
-						<li class="week-price" data-toggle="modal" data-target="#modal-6981">
+						<li class="week-price" data-toggle="modal" data-target="#modal-1">
 							<div class="im">
 								<img src="img/goods/dresses/6981.jpeg" height="360" width="265" alt="">
 							</div>
 							<div class="info">
-								<h2>Платье J. London</h2>
+                                <h2>J. London</h2>
 								<!-- <div class="row">
 									<p class="old-price">17$</p>
 									<p class="price">12$</p>
@@ -312,12 +312,12 @@
 								<button class="btn tmpl-btn"><div onClick="yaCounter39490315.reachGoal('podrobnee'); ga('tovar', 'posmotret'); return true;" style="width: 100%; height: 100%; line-height: 47px">Посмотреть</div></button>
 							</div>
 						</li>
-						<li class="week-price" data-toggle="modal" data-target="#modal-68515">
+						<li class="week-price" data-toggle="modal" data-target="#modal-1">
 							<div class="im">
 								<img src="img/goods/dresses/68515.jpeg" height="360" width="265" alt="">
 							</div>
 							<div class="info">
-								<h2>Платье J. London</h2>
+                                <h2>J. London</h2>
 								<!-- <div class="row">
 									<p class="old-price">17$</p>
 									<p class="price">12$</p>
@@ -325,12 +325,12 @@
 								<button class="btn tmpl-btn"><div onClick="yaCounter39490315.reachGoal('podrobnee'); ga('tovar', 'posmotret'); return true;" style="width: 100%; height: 100%; line-height: 47px">Посмотреть</div></button>
 							</div>
 						</li>
-						<li class="week-price" data-toggle="modal" data-target="#modal-690">
+						<li class="week-price" data-toggle="modal" data-target="#modal-1">
 							<div class="im">
 								<img src="img/goods/dresses/690.jpeg" height="360" width="265" alt="">
 							</div>
 							<div class="info">
-								<h2>Платье J. London</h2>
+                                <h2>J. London</h2>
 								<!-- <div class="row">
 									<p class="old-price">17$</p>
 									<p class="price">12$</p>
@@ -338,12 +338,12 @@
 								<button class="btn tmpl-btn"><div onClick="yaCounter39490315.reachGoal('podrobnee'); ga('tovar', 'posmotret'); return true;" style="width: 100%; height: 100%; line-height: 47px">Посмотреть</div></button>
 							</div>
 						</li>
-						<li class="week-price" data-toggle="modal" data-target="#modal-6945">
+						<li class="week-price" data-toggle="modal" data-target="#modal-1">
 							<div class="im">
 								<img src="img/goods/dresses/6945.jpeg" height="360" width="265" alt="">
 							</div>
 							<div class="info">
-								<h2>Платье J. London</h2>
+                                <h2>J. London</h2>
 								<!-- <div class="row">
 									<p class="old-price">17$</p>
 									<p class="price">12$</p>
@@ -351,12 +351,12 @@
 								<button class="btn tmpl-btn"><div onClick="yaCounter39490315.reachGoal('podrobnee'); ga('tovar', 'posmotret'); return true;" style="width: 100%; height: 100%; line-height: 47px">Посмотреть</div></button>
 							</div>
 						</li>
-						<li class="week-price" data-toggle="modal" data-target="#modal-6552">
+						<li class="week-price" data-toggle="modal" data-target="#modal-1">
 							<div class="im">
 								<img src="img/goods/dresses/6552.jpeg" height="360" width="265" alt="">
 							</div>
 							<div class="info">
-								<h2>Платье J. London</h2>
+                                <h2>J. London</h2>
 								<!-- <div class="row">
 									<p class="old-price">17$</p>
 									<p class="price">12$</p>
@@ -364,12 +364,12 @@
 								<button class="btn tmpl-btn"><div onClick="yaCounter39490315.reachGoal('podrobnee'); ga('tovar', 'posmotret'); return true;" style="width: 100%; height: 100%; line-height: 47px">Посмотреть</div></button>
 							</div>
 						</li>
-						<li class="week-price" data-toggle="modal" data-target="#modal-69515">
+						<li class="week-price" data-toggle="modal" data-target="#modal-1">
 							<div class="im">
 								<img src="img/goods/dresses/69515.jpeg" height="360" width="265" alt="">
 							</div>
 							<div class="info">
-								<h2>Платье J. London</h2>
+                                <h2>J. London</h2>
 								<!-- <div class="row">
 									<p class="old-price">17$</p>
 									<p class="price">12$</p>
@@ -377,12 +377,12 @@
 								<button class="btn tmpl-btn"><div onClick="yaCounter39490315.reachGoal('podrobnee'); ga('tovar', 'posmotret'); return true;" style="width: 100%; height: 100%; line-height: 47px">Посмотреть</div></button>
 							</div>
 						</li>
-						<li class="week-price" data-toggle="modal" data-target="#modal-69415">
+						<li class="week-price" data-toggle="modal" data-target="#modal-1">
 							<div class="im">
 								<img src="img/goods/dresses/69415.jpeg" height="360" width="265" alt="">
 							</div>
 							<div class="info">
-								<h2>Платье J. London</h2>
+                                <h2>J. London</h2>
 								<!-- <div class="row">
 									<p class="old-price">17$</p>
 									<p class="price">12$</p>
@@ -390,12 +390,12 @@
 								<button class="btn tmpl-btn"><div onClick="yaCounter39490315.reachGoal('podrobnee'); ga('tovar', 'posmotret'); return true;" style="width: 100%; height: 100%; line-height: 47px">Посмотреть</div></button>
 							</div>
 						</li>
-						<li class="week-price" data-toggle="modal" data-target="#modal-695">
+						<li class="week-price" data-toggle="modal" data-target="#modal-1">
 							<div class="im">
 								<img src="img/goods/dresses/695.jpeg" height="360" width="265" alt="">
 							</div>
 							<div class="info">
-								<h2>Платье J. London</h2>
+                                <h2>J. London</h2>
 								<!-- <div class="row">
 									<p class="old-price">17$</p>
 									<p class="price">12$</p>
@@ -414,7 +414,7 @@
 								<img src="img/goods/skirts/2007.jpeg" alt="">
 							</div>
 							<div class="info">
-								<h2>Юбка J. London</h2>
+								<h2>J. London</h2>
 								<!-- <div class="row">
 									<p class="price">27$</p>
 								</div> -->
@@ -426,7 +426,7 @@
 								<img src="img/goods/skirts/2049.jpeg" alt="">
 							</div>
 							<div class="info">
-								<h2>Юбка J. London</h2>
+                                <h2>J. London</h2>
 								<!-- <div class="row">
 									<p class="price">27$</p>
 								</div> -->
@@ -438,7 +438,7 @@
 								<img src="img/goods/skirts/20951.jpeg" alt="">
 							</div>
 							<div class="info">
-								<h2>Юбка J. London</h2>
+                                <h2>J. London</h2>
 								<!-- <div class="row">
 									<p class="price">27$</p>
 								</div> -->
@@ -450,7 +450,7 @@
 								<img src="img/goods/skirts/20961.jpeg" alt="">
 							</div>
 							<div class="info">
-								<h2>Юбка J. London</h2>
+                                <h2>J. London</h2>
 								<!-- <div class="row">
 									<p class="price">27$</p>
 								</div> -->
@@ -462,7 +462,7 @@
 								<img src="img/goods/skirts/20988.jpeg" alt="">
 							</div>
 							<div class="info">
-								<h2>Юбка J. London</h2>
+                                <h2>J. London</h2>
 								<!-- <div class="row">
 									<p class="price">27$</p>
 								</div> -->
@@ -474,7 +474,7 @@
 								<img src="img/goods/skirts/215213.jpeg" alt="">
 							</div>
 							<div class="info">
-								<h2>Юбка J. London</h2>
+                                <h2>J. London</h2>
 								<!-- <div class="row">
 									<p class="price">27$</p>
 								</div> -->
@@ -486,7 +486,7 @@
 								<img src="img/goods/skirts/20491.jpg" alt="">
 							</div>
 							<div class="info">
-								<h2>Юбка J. London</h2>
+                                <h2>J. London</h2>
 								<!-- <div class="row">
 									<p class="price">27$</p>
 								</div> -->
@@ -498,7 +498,7 @@
 								<img src="img/goods/skirts/215213.jpg" alt="">
 							</div>
 							<div class="info">
-								<h2>Юбка J. London</h2>
+                                <h2>J. London</h2>
 								<!-- <div class="row">
 									<p class="price">27$</p>
 								</div> -->
@@ -510,7 +510,7 @@
 								<img src="img/goods/skirts/20302.jpeg" alt="">
 							</div>
 							<div class="info">
-								<h2>Юбка J. London</h2>
+                                <h2>J. London</h2>
 								<!-- <div class="row">
 									<p class="price">27$</p>
 								</div> -->
@@ -522,7 +522,7 @@
 								<img src="img/goods/skirts/2065.jpg" alt="">
 							</div>
 							<div class="info">
-								<h2>Юбка J. London</h2>
+                                <h2>J. London</h2>
 								<!-- <div class="row">
 									<p class="price">27$</p>
 								</div> -->
@@ -534,7 +534,7 @@
 								<img src="img/goods/skirts/2049.jpg" alt="">
 							</div>
 							<div class="info">
-								<h2>Юбка J. London</h2>
+                                <h2>J. London</h2>
 								<!-- <div class="row">
 									<p class="price">27$</p>
 								</div> -->
@@ -546,7 +546,7 @@
 								<img src="img/goods/skirts/20062.jpeg" alt="">
 							</div>
 							<div class="info">
-								<h2>Юбка J. London</h2>
+                                <h2>J. London</h2>
 								<!-- <div class="row">
 									<p class="price">27$</p>
 								</div> -->
@@ -564,7 +564,7 @@
 								<img src="img/goods/pants/1007.jpeg" height="360" width="265" alt="">
 							</div>
 							<div class="info">
-								<h2>Брюки J. London</h2>
+                                <h2>J. London</h2>
 								<!-- <div class="row">
 									<p class="price">27$</p>
 								</div> -->
@@ -576,7 +576,7 @@
 								<img src="img/goods/pants/8873.jpeg" height="360" width="265" alt="">
 							</div>
 							<div class="info">
-								<h2>Брюки J. London</h2>
+                                <h2>J. London</h2>
 								<!-- <div class="row">
 									<p class="price">27$</p>
 								</div> -->
@@ -589,7 +589,7 @@
 								<img src="img/goods/pants/1010.jpeg" height="360" width="265" alt="">
 							</div>
 							<div class="info">
-								<h2>Брюки J. London</h2>
+                                <h2>J. London</h2>
 								<!-- <div class="row">
 									<p class="price">27$</p>
 								</div> -->
@@ -601,7 +601,7 @@
 								<img src="img/goods/pants/1025.jpeg" height="360" width="265" alt="">
 							</div>
 							<div class="info">
-								<h2>Брюки J. London</h2>
+                                <h2>J. London</h2>
 								<!-- <div class="row">
 									<p class="price">27$</p>
 								</div> -->
@@ -613,7 +613,7 @@
 								<img src="img/goods/pants/1054.jpeg" height="360" width="265" alt="">
 							</div>
 							<div class="info">
-								<h2>Брюки J. London</h2>
+                                <h2>J. London</h2>
 								<!-- <div class="row">
 									<p class="price">27$</p>
 								</div> -->
@@ -625,7 +625,7 @@
 								<img src="img/goods/pants/1061.jpeg" height="360" width="265" alt="">
 							</div>
 							<div class="info">
-								<h2>Брюки J. London</h2>
+                                <h2>J. London</h2>
 								<!-- <div class="row">
 									<p class="price">27$</p>
 								</div> -->
@@ -637,7 +637,7 @@
 								<img src="img/goods/pants/1088.jpeg" height="360" width="265" alt="">
 							</div>
 							<div class="info">
-								<h2>Брюки J. London</h2>
+                                <h2>J. London</h2>
 								<!-- <div class="row">
 									<p class="price">27$</p>
 								</div> -->
@@ -649,7 +649,7 @@
 								<img src="img/goods/pants/10639.jpg" height="360" width="265" alt="">
 							</div>
 							<div class="info">
-								<h2>Брюки J. London</h2>
+                                <h2>J. London</h2>
 								<!-- <div class="row">
 									<p class="price">27$</p>
 								</div> -->
@@ -661,7 +661,7 @@
 								<img src="img/goods/pants/10120.jpg" height="360" width="265" alt="">
 							</div>
 							<div class="info">
-								<h2>Брюки J. London</h2>
+                                <h2>J. London</h2>
 								<!-- <div class="row">
 									<p class="price">27$</p>
 								</div> -->
@@ -673,7 +673,7 @@
 								<img src="img/goods/pants/10972.jpeg" height="360" width="265" alt="">
 							</div>
 							<div class="info">
-								<h2>Брюки J. London</h2>
+                                <h2>J. London</h2>
 								<!-- <div class="row">
 									<p class="price">27$</p>
 								</div> -->
@@ -686,7 +686,7 @@
 								<img src="img/goods/pants/10699.jpg" height="360" width="265" alt="">
 							</div>
 							<div class="info">
-								<h2>Брюки J. London</h2>
+                                <h2>J. London</h2>
 								<!-- <div class="row">
 									<p class="price">27$</p>
 								</div> -->
@@ -698,7 +698,7 @@
 								<img src="img/goods/pants/10829.jpeg" height="360" width="265" alt="">
 							</div>
 							<div class="info">
-								<h2>Брюки J. London</h2>
+                                <h2>J. London</h2>
 								<!-- <div class="row">
 									<p class="price">27$</p>
 								</div> -->
@@ -716,7 +716,7 @@
 								<img src="img/goods/blouses/3007.jpeg" height="360" width="265" alt="" alt="">
 							</div>
 							<div class="info">
-								<h2>Пиджак J. London</h2>
+                                <h2>J. London</h2>
 								<!-- <div class="row">
 									<p class="price">27$</p>
 								</div> -->
@@ -728,7 +728,7 @@
 								<img src="img/goods/blouses/880.jpeg" height="360" width="265" alt="" alt="">
 							</div>
 							<div class="info">
-								<h2>Блузка J. London</h2>
+                                <h2>J. London</h2>
 								<!-- <div class="row">
 									<p class="price">27$</p>
 								</div> -->
@@ -740,7 +740,7 @@
 								<img src="img/goods/blouses/3008.jpeg" height="360" width="265" alt="" alt="">
 							</div>
 							<div class="info">
-								<h2>Блузка J. London</h2>
+                                <h2>J. London</h2>
 								<!-- <div class="row">
 									<p class="price">27$</p>
 								</div> -->
@@ -752,7 +752,7 @@
 								<img src="img/goods/blouses/3015.jpeg" height="360" width="265" alt="" alt="">
 							</div>
 							<div class="info">
-								<h2>Блузка J. London</h2>
+                                <h2>J. London</h2>
 								<!-- <div class="row">
 									<p class="price">27$</p>
 								</div> -->
@@ -764,7 +764,7 @@
 								<img src="img/goods/blouses/8805.jpeg" height="360" width="265" alt="" alt="">
 							</div>
 							<div class="info">
-								<h2>Блузка J. London</h2>
+                                <h2>J. London</h2>
 								<!-- <div class="row">
 									<p class="price">27$</p>
 								</div> -->
@@ -776,7 +776,7 @@
 								<img src="img/goods/blouses/3016.jpeg" height="360" width="265" alt="" alt="">
 							</div>
 							<div class="info">
-								<h2>Блузка J. London</h2>
+                                <h2>J. London</h2>
 								<!-- <div class="row">
 									<p class="price">27$</p>
 								</div> -->
@@ -788,7 +788,7 @@
 								<img src="img/goods/blouses/8811.jpeg" height="360" width="265" alt="" alt="">
 							</div>
 							<div class="info">
-								<h2>Блузка J. London</h2>
+                                <h2>J. London</h2>
 								<!-- <div class="row">
 									<p class="price">27$</p>
 								</div> -->
@@ -800,7 +800,7 @@
 								<img src="img/goods/blouses/8822.jpg" height="360" width="265" alt="" alt="">
 							</div>
 							<div class="info">
-								<h2>Блузка J. London</h2>
+                                <h2>J. London</h2>
 								<!-- <div class="row">
 									<p class="price">27$</p>
 								</div> -->
@@ -812,7 +812,7 @@
 								<img src="img/goods/blouses/8841.jpeg" height="360" width="265" alt="" alt="">
 							</div>
 							<div class="info">
-								<h2>Блузка J. London</h2>
+                                <h2>J. London</h2>
 								<!-- <div class="row">
 									<p class="price">27$</p>
 								</div> -->
@@ -824,7 +824,7 @@
 								<img src="img/goods/blouses/8873.jpeg" height="360" width="265" alt="" alt="">
 							</div>
 							<div class="info">
-								<h2>Блузка J. London</h2>
+                                <h2>J. London</h2>
 								<!-- <div class="row">
 									<p class="price">27$</p>
 								</div> -->
@@ -836,7 +836,7 @@
 								<img src="img/goods/blouses/10843.jpeg" height="360" width="265" alt="" alt="">
 							</div>
 							<div class="info">
-								<h2>Блузка J. London</h2>
+                                <h2>J. London</h2>
 								<!-- <div class="row">
 									<p class="price">27$</p>
 								</div> -->
@@ -848,7 +848,7 @@
 								<img src="img/goods/blouses/30178.jpeg" height="360" width="265" alt="" alt="">
 							</div>
 							<div class="info">
-								<h2>Блузка J. London</h2>
+                                <h2>J. London</h2>
 								<!-- <div class="row">
 									<p class="price">27$</p>
 								</div> -->
